@@ -1,0 +1,1118 @@
+﻿MRN,ADM,AnnotaionID,EntryDatetime,annotation,type,href,SpecialNode,format,Username,ActivityDate
+1,1,287,5/31/2023,"milrinone dc
+",clinical,{},IO,{},Bayard.Rucker@cchmc.org,4/22/2025
+1,1,288,6/1/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,2/13/2024
+1,1,310,5/31/2023,"1 RV-PA conduit replacement w/ PTFE 3 leaflet valve in 24mm dacron hemashield straight tube
+2 division of RV muscle bundles & extension of RV opening
+3 insertion of PTFE pericardial membrane
+CPB 160m |  XC 55m
+",clinical,"{""00000001_1_411"": ""Report_CTS_2023-05-31.pdf"", ""00000001_1_412"": ""Pre Brief_2023-05-31.pdf"", ""00000001_1_413"": ""Report_Anes_2023-05-31.pdf""}",OPRP,{},Abbey.Fugazzi@cchmc.org,2/27/2024
+1,1,311,5/31/2023,"Intubated with 7.0 ETT, Grade 1 view.
+Bypass 161 min
+Arrythmias in OR: N/A
+Products Received in OR: 10 cryo, 1.5 units of platelets
+Lines/tubes: L radial arterial line, RIJ central line, 2 chest tubes
+return to CICU on Epi, Miilrinone, dex",clinical,"{""00000001_1_400"": ""Progress Note_CICU_2023-05-31.pdf""}",OTHR,{},Brianne.Reedy@cchmc.org,12/9/2025
+1,1,312,6/1/2023,"Course Correction threshold:
+Discharge by: 6/7/25",clinical,"{""00000001_1_401"": ""Progress Note_ACCU_2023-06-01.pdf""}",OTHR,{},Brianne.Reedy@cchmc.org,12/9/2025
+1,1,313,5/31/2023,"no resid ASD/VSD
+conduit PG 17 
+  no regurg
+biV nml fxn",image-echo,"{""00000001_1_589"": ""Echo_TEE_2023-05-31.pdf"", ""00000001_1_590"": ""CMC_2021-07-14.pdf""}",,{},Brianne.Reedy@cchmc.org,12/9/2025
+1,1,314,6/3/2023,NULL,clinical,"{""00000001_1_403"": ""DC Summary_2023-06-03.pdf""}",DCSM,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+1,1,315,6/3/2023,"No resid VSD
+Conduit PG 15 
+  No regurg 
+No RVOTO 
+RV low nml fxn 
+LV nml fxn
+",image-echo,"{""00000001_1_597"": ""Echo_TTE_2023-06-03.pdf""}",,{},Bayard.Rucker@cchmc.org,4/22/2025
+1,1,418,6/1/2024,NULL,clinical,{},Airway Scope_NP scope,{},Bayard.Rucker@cchmc.org,4/22/2025
+2,1,289,6/2/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,2/13/2024
+2,1,290,6/1/2023,"VATS assisted Right thoracotomy
+Posterior Aortopexy
+Posterior Bronchopexy",clinical,"{""00000002_1_414"": ""Report_Anes_2023-06-01.pdf"", ""00000002_1_415"": ""Pre Brief_2023-06-01.pdf""}",PBRF,{},Abbey.Fugazzi@cchmc.org,3/5/2024
+2,1,291,6/3/2023,,clinical,"{""00000002_1_416"": ""DC Summary_2023-06-03.pdf""}",DCSM,{},Abbey.Fugazzi@cchmc.org,3/5/2024
+2,1,316,6/3/2023,"unobstructed RAA
+dAo PG 14
+biV nml fx",image-echo,"{""00000002_1_578"": ""Echo_TTE_2023-06-03.pdf""}",,{},Brianne.Reedy@cchmc.org,4/21/2025
+2,1,386,6/1/2023,"Intubated with 4.5 ETT, Grade 1 view.
+Case done off bypass via R thoracotomy.
+Arrythmias in OR: none
+Products Received in OR: none
+TEE n/a
+lntraoperative events: resp culture sent d/t yellow mucus seen and mild cough preop
+Lines/tubes: R rad arterial line, DL RIJ central line, 1 chest tubes
+Returned to CICU extubated on precedex infusions.",clinical,"{""00000002_1_542"": ""Progress Note_CICU_2023-06-01.pdf""}",OTHR,{},Brianne.Reedy@cchmc.org,12/9/2025
+2,1,419,6/13/2024,NULL,clinical,{},PBRF,{},ssutharzan@cchmc.org,5/7/2025
+3,1,292,5/9/2023,NULL,clinical,{},CTO,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+3,1,293,5/8/2023,NULL,clinical,{},IO,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+3,1,317,5/8/2023,"test to see if this makes edits, usually with the dotted line box I cannot even get to this popout as demonstrated previously",clinical,"{""00000003_1_425"": ""Report_Anes_2023-05-08.pdf"", ""00000003_1_426"": ""Report_CTS_2023-05-08.pdf"", ""00000003_1_427"": ""Pre Brief_2023-05-08.pdf"", ""00000003_1_428"": ""IntraOp Photo.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,7/14/2025
+3,1,318,5/11/2023,NULL,clinical,"{""00000003_1_422"": ""DC Summary_2023-05-11.pdf""}",DCSM,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+3,1,319,5/8/2024,NULL,image-echo,"{""00000003_1_423"": ""Echo_TEE_2023-05-08.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+3,1,320,5/10/2023,NULL,image-echo,"{""00000003_1_424"": ""Echo_TTE_2023-05-10.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+3,1,387,5/8/2023,"H&P
+
+this edit willl show up too. Not sure why it wouldn't on last patient, will try to go back there and test again.",clinical,"{""00000003_1_543"": ""H-P_2023-05-05.pdf""}",OTHR,{},Brianne.Reedy@cchmc.org,7/14/2025
+3,1,388,5/8/2024,Progress Note,clinical,"{""00000003_1_544"": ""Progress Note_CICU_2023-05-08.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,294,5/27/2023,"attachment added
+another attachment added
+",clinical,"{""00000004_1_676"": ""fp_dev_johnson_attachment_1.pdf"", ""00000004_1_677"": ""fp_dev_johnson_attachment_2.pdf""}",CTO,{},ssutharzan@cchmc.org,7/24/2025
+4,1,295,6/1/2023,NULL,clinical,{},IO,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,305,10/12/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,2/13/2024
+4,1,306,10/12/2023,epi dc,clinical,{},IO,{},Brianne.Reedy@cchmc.org,2/13/2024
+4,1,307,6/4/2023,"bradycardia & hypotension during ETT exchange req code epi x1, no compressions",clinical,"{""00000004_1_692"": ""Code_2023-06-04.pdf""}",CA,{},Brianne.Reedy@cchmc.org,9/16/2025
+4,1,308,6/4/2023,"suspected acute aspiration event
+mild bronchitis
+RUL/RML mucus plugging
+",clinical,{},Airway Scope_B,{},Brianne.Reedy@cchmc.org,4/2/2025
+4,1,309,1/28/2024,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,2/13/2024
+4,1,324,5/22/2023,NULL,clinical,"{""00000004_1_434"": ""Report_CTS_2023-05-22.pdf"", ""00000004_1_435"": ""Report_Anes_2023-05-22.pdf"", ""000",OPRP,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,325,5/26/2023,chest closure,clinical,{},OPRP,{},Brianne.Reedy@cchmc.org,4/21/2025
+4,1,356,10/10/2023,NULL,clinical,"{""00000004_1_495"": ""Pre Brief_2023-10-10.pdf"", ""00000004_1_496"": ""Report_CTS_2023-10-10.pdf"", ""00000",OPRP,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,357,10/21/2023,NULL,clinical,"{""00000004_1_498"": ""DC Summary_2023-10-21.pdf""}",DCSM,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,358,1/19/2024,NULL,clinical,"{""00000004_1_499"": ""Pre Brief_2024-01-19.pdf"", ""00000004_1_500"": ""Report_CTS_2024-01-19.pdf"", ""00000",OPRP,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,359,1/23/2024,NULL,clinical,"{""00000004_1_502"": ""Report_Anes_2024-01-23.pdf"", ""00000004_1_503"": ""Report_Cath_2024-01-23.pdf""}",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,360,2/7/2024,NULL,clinical,"{""00000004_1_504"": ""Report_Cath_2024-02-07.pdf"", ""00000004_1_505"": ""Report_Anes_2024-02-07.pdf""}",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,361,2/15/2024,NULL,clinical,"{""00000004_1_506"": ""DC Summary_2024-02-15.pdf""}",DCSM,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,362,5/22/2023,"test
+unobstr PV confl to LA
+antegr flow to brPAs
+tr TR
+RV mild dysfx
+
+
+",image-echo,{},,{},Brianne.Reedy@cchmc.org,7/14/2025
+4,1,363,5/17/2023,"DORV, MA, AA
+no AR< no antegr flow
+ascAo 2mm
+4x PVs form confl drain to LA
+mild TR
+RV nml fx",image-echo,{},,{},Brianne.Reedy@cchmc.org,4/2/2025
+4,1,364,5/28/2023,"unobstr PV confl to LA
+no RPA stenosis PG 6
+mild LPA stenosis PG 15
+unobstr atrial septum
+tr TR
+no neoAS, tr neoAI
+RV nml fx",image-echo,"{""00000004_1_579"": ""Echo_TTE_2023-05-28.pdf""}",,{},Bayard.Rucker@cchmc.org,7/25/2025
+4,1,365,10/10/2023,NULL,image-echo,"{""00000004_1_510"": ""Echo_TEE_2023-10-10.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,366,1/19/2024,now I'm able to edit clinical events/imaging but wasn't able to the first few times I tried in this video.,image-echo,"{""00000004_1_511"": ""Echo_TEE_2024-01-19.pdf""}",,{},Brianne.Reedy@cchmc.org,7/14/2025
+4,1,367,2/8/2024,NULL,image-echo,"{""00000004_1_512"": ""Echo_TTE_2024-02-08.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,402,5/16/2023,"Newborn w/ prenatal dx DORV MA CoA unobstr TAPVR born today, uncomplicated delivery",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,4/2/2025
+4,1,403,5/22/2023,"SVT->amio. mod/sev depressed fxn coming off CPB following amio bolus, resumed CPB, fx improved.",clinical,{},OTHR,{},Bayard.Rucker@cchmc.org,7/25/2025
+4,1,404,1/19/2024,NULL,clinical,"{""00000004_1_560"": ""Progress Note_CICU_2024-01-19.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,405,10/10/2023,NULL,clinical,"{""00000004_1_561"": ""Progress Note_CICU_2023-10-10.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,406,10/10/2023,H&P,clinical,"{""00000004_1_562"": ""H-P_2023-10-10.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,407,1/12/2024,H&P,clinical,"{""00000004_1_563"": ""H-P_2024-01-12.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,296,5/20/2023,NULL,clinical,{},IO,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,321,5/12/2023,right heart cath for hemodynamic testing and biopsy,clinical,"{""00000005_1_429"": ""Report_Cath_2023-05-12.pdf"", ""00000005_1_430"": ""Report_Anes_2023-05-12.pdf""}",CATH,{},Brianne.Reedy@cchmc.org,12/9/2025
+5,1,322,5/15/2023,"1. ECMO decannulation
+2. Repair of RCA & Right Jugular Vein",clinical,"{""00000005_1_431"": ""Report_CTS_2023-05-15.pdf"", ""00000005_1_432"": ""Report_Anes_2023-05-15.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,12/9/2025
+5,1,323,5/24/2024,NULL,clinical,"{""00000005_1_433"": ""DC Summary_2023-05-24.pdf""}",DCSM,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,368,5/11/2023,"m/mod MR
+mild TR
+sm L->R ASD
+no pericard effusion
+RV mild dysfx
+LV mod dysfx",image-echo,"{""00000005_1_572"": ""ECHO_TTE_2023-05-11.pdf""}",,{},Brianne.Reedy@cchmc.org,10/10/2024
+5,1,369,5/12/2023,"sm L->R ASD MG=5
+m/mod MR
+mild AR, minimal opening
+RV mod dysfx
+LV sev dysfx",image-echo,"{""00000005_1_573"": ""ECHO_TTE_2023-05-12.pdf""}",,{},Brianne.Reedy@cchmc.org,10/10/2024
+5,1,370,5/12/2023,"return cannula in descAo
+drain cannula in RA beyond SVC/RA jxn
+no Ao opening
+RV sev dysfx
+LV sev dysfx, mimimal blood mvmnt
+no pericard effusion",image-echo,"{""00000005_1_574"": ""ECHO_TTE_2023-05-12-1433.pdf""}",,{},Brianne.Reedy@cchmc.org,10/10/2024
+5,1,371,5/15/2023,"sm L->R ASD 
+mild TR
+mild MR
+biV nml fx
+tr pericard effusion",image-echo,"{""00000005_1_575"": ""ECHO_TTE_2023-05-15.pdf""}",,{},Brianne.Reedy@cchmc.org,10/10/2024
+5,1,372,5/18/2023,"sm L->R ASD 
+m/mod MR
+LV mild dysfx
+RV nml fx
+no pericard effusion",image-echo,"{""00000005_1_576"": ""ECHO_TTE_2023-05-18.pdf""}",,{},Brianne.Reedy@cchmc.org,10/10/2024
+5,1,389,5/11/2023,NULL,clinical,"{""00000005_1_545"": ""H-P_2023-05-11.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,390,5/12/2023,progress note,clinical,"{""00000005_1_546"": ""Progress Note_CICU_2023-05-12.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,470,5/12/2023,"PEA arrest 
+d/t ongoing pulm hemorrhage with high LA pressure and ongoing arrest with poor hope for recovery, ECMO team called for technically difficult repeat of VA ECMO cannulation",clinical,"{""00000005_1_706"": ""AE_2023-05-12.pdf""}",CA,{},Brianne.Reedy@cchmc.org,12/8/2025
+11001,1,439,1/5/2025,NULL,clinical,{},IO,{},gAAAAABoh7hC3bJjeEciuvgtQf6EU5fDiKf_Cf0ek5KzXmqv5qPDnPy8i_HgkLGGM3jOk964nZfg83jNQVvytzL3GBOZKQBx8i0H,7/28/2025
+11001,1,440,1/4/2025,NULL,clinical,{},CTO,{},gAAAAABoh7hC3bJjeEciuvgtQf6EU5fDiKf_Cf0ek5KzXmqv5qPDnPy8i_HgkLGGM3jOk964nZfg83jNQVvytzL3GBOZKQBx8i0H,7/28/2025
+1214163,1,193,3/31/2023,transfer from Oklahoma Childrens for airway eval,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,194,4/3/2023,"airway eval
+tracheobronchomalacia
+L bronchus compression 80%",clinical,"{""01214163_1_261"": ""Report_non CTS_2023-04-03.pdf"", ""01214163_1_262"": ""Report_Bronch_2023-04-03.pdf""",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,195,4/26/2023,"Pericardiopexy
+Translocation of anterior & lateral diaphragm
+Support of Bronchus w ringed Gore-tex splint 
+",clinical,"{""01214163_1_264"": ""IntraOp Photo_2023.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/5/2023
+10000001,1,302,7/26/2023,NULL,clinical,{},IO,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,303,8/2/2023,NULL,clinical,{},CTO,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,337,7/20/2023,placement of double lumen CVC as a PICC line is not an option. She requires access for ongoing milrinone therapy,clinical,"{""10000001_1_536"": ""Report_non CTS_2023-07-20.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,3/8/2024
+10000001,1,338,7/22/2023,"1  Heart and Liver Transplant
+2  Fontan Takedown
+3  Pulmonary Arterioplasty 
+4  Repair of Diaphragm
+    CPB 315m| DIT 357m",clinical,"{""10000001_1_601"": ""Report_CTS_2023-07-22.pdf"", ""10000001_1_602"": ""Report_non CTS_2023-07-22.pdf"", ""10000001_1_603"": ""Pre Brief_2023-07-22.pdf"", ""10000001_1_604"": ""Echo_TEE_2023-05-08.pdf""}",OPRP,{},Bayard.Rucker@cchmc.org,5/13/2025
+10000001,1,339,8/1/2023,"Cath: Fick 2.1
+SVC 1, IVC 0
+RVEDp 7
+no RVOTO
+unobstr MPA
+mPAp 18
+PVR 2.6
+LVEDp 11
+transhepatic 1",clinical,"{""10000001_1_538"": ""Report_Cath_2023-08-01.pdf"", ""10000001_1_539"": ""Report_Anes_2023-08-01.pdf""}",CATH,{},Brianne.Reedy@cchmc.org,3/8/2024
+10000001,1,340,8/8/2023,NULL,clinical,"{""10000001_1_466"": ""DC Summary_2023-08-08.pdf""}",DCSM,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,341,7/22/2023,"TEE:
+tr MR
+RV low nml fx
+LV nml fx ",image-echo,"{""10000001_1_537"": ""Echo_TEE_2023-07-22.pdf""}",,{},Brianne.Reedy@cchmc.org,3/8/2024
+10000001,1,342,7/24/2023,"tr MR
+LV low nml fx 
+",image-echo,"{""10000001_1_540"": ""Echo_TTE_2023-07-24.pdf""}",,{},Brianne.Reedy@cchmc.org,3/8/2024
+10000001,1,343,8/7/2023,NULL,image-echo,"{""10000001_1_469"": ""Echo_TTE_2023-08-07.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,385,5/1/2023,"in progressive HF, 
+near arrest, transfer to initiate milrinone",clinical,"{""10000001_1_541"": ""AE-2023-05-01.pdf""}",MRT,{},Brianne.Reedy@cchmc.org,3/8/2024
+10000001,1,400,4/26/2023,H&P,clinical,"{""10000001_1_556"": ""H-P_2023-04-26.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,401,7/23/2023,progress note,clinical,"{""10000001_1_557"": ""Progress Note_2023-07-23.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,420,7/21/2022,NULL,clinical,{},CATH,{},ssutharzan@cchmc.org,5/7/2025
+10000001,1,421,7/21/2022,NULL,clinical,{},IO,{},ssutharzan@cchmc.org,5/7/2025
+10000001,1,422,7/27/2023,NULL,clinical,{},IO,{},ssutharzan@cchmc.org,5/7/2025
+10000011,1,460,5/1/2025,PICC placement and milrinone initiation,clinical,"{""10000011_1_697"": ""AE-2023-05-01.pdf""}",MRT,{},Brianne.Reedy@cchmc.org,12/9/2025
+10000011,1,461,4/26/2025,"H&P:
+listed for combined heart-liver transplant d/t failed Fontan with associated liver disease. 
+admitted for fluid overload & abdominal ascites ",clinical,"{""10000011_1_698"": ""H-P_2023-04-26.pdf""}",OTHR,{},Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,462,7/22/2025,"1  Heart and Liver Transplant
+2  Fontan Takedown
+3  Pulmonary Arterioplasty 
+4  Repair of Diaphragm
+    CPB 315m| DIT 357m
+",clinical,"{""10000011_1_699"": ""Report_non CTS_2023-07-22.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,463,7/22/2025,"1. Trivial MR
+2. no significant pericardia! effusion
+3. biV nml fx
+
+",image-echo,"{""10000011_1_700"": ""Echo_TEE_2023-07-22.pdf""}",,{},Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,464,7/23/2025,"Intubated with 8.0 ETT, Grade 1 view
+357 donor ischemic time
+Arrythmias in OR: none
+Products Received in OR:866 cc PRBCs, 267 cc cryo, 3000 U pee, 445 cc platelets, 588 cc ffp, 1.3L cell saver
+lntraoperative events: none
+Lines/tubes: L radial & femoral arterial line, tunneled DL 10 Fr central line, 2 chest tubes
+Returned to CICU on epi, milrinone, and vaso infusions",clinical,"{""10000011_1_701"": ""Progress Note_2023-07-23.pdf""}",OTHR,{},Brianne.Reedy@cchmc.org,12/9/2025
+10000011,1,465,7/24/2025,"1. Trivial mitral valve regurgitation.
+2. There is no significant pericardia! effusion.
+3. LV mildly diminished function. 
+4. RV low normal function
+",image-echo,"{""10000011_1_702"": ""Echo_TTE_2023-07-24.pdf""}",,{},Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,466,8/7/2025,"1. Trivial MR
+2. SVC/LPA not well visualized
+3. LV is normal function
+4. Limited visualization of RV
+5. There is no significant pericardia! effusion",image-echo,"{""10000011_1_703"": ""Echo_TTE_2023-08-07.pdf""}",,{},Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,467,7/26/2025,milrinone d/c,clinical,{},IO,{},Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,468,7/27/2025,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,469,8/1/2025,"CO 2.1 (Fick)
+No caval-to-RA obstruction: 
+RVEDp (7 mmHg) 
+no significant RVOTO
+mean PA pressure (18 mmHg) 
+PVRi (2.6 WUi)
+LVEDp (11 mmHg)
+No gradient into hepatic veins
+",clinical,"{""10000011_1_704"": ""Report_Cath_2023-08-01.pdf""}",CATH,{},Brianne.Reedy@cchmc.org,12/8/2025
+110575555,1,63,4/19/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,4/25/2023
+110575555,1,64,4/18/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,4/25/2023
+110575555,1,65,4/17/2023,"1. VSD closure w/ GoreTex patch
+2. pulmonary valvotomy
+3. supravalvar pulmonary arterioplasty w/ pericardial patch
+4. calibration of PFO
+CPB 152m |  XC 95m",clinical,"{""110575555_1_85"": ""Photos_IntraOp_Lee_A_2023-04-17.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/28/2023
+110575555,1,66,4/17/2023,"TOF, lg VSD
+mod/sev PS (pk/mean 70/32)
+biV nml fx
+PFO",image-echo,{},,{},Brianne.Reedy@cchmc.org,4/28/2023
+110575555,1,67,4/19/2023,"no resid VSD
+trace PI, no PS, mild TR
+PFO (R to L)",image-echo,{},,{},Brianne.Reedy@cchmc.org,4/25/2023
+110585976,1,158,1/6/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,159,1/6/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,172,1/4/2023,"intracardiac repair of VSD
+closure of ASD w pericardial patch
+takedown and repair of tricuspid valve
+PDA ligation
+CPB 149m |  XC 83m",clinical,{},OPRP,{},Brianne.Reedy@cchmc.org,5/4/2023
+110585976,1,173,1/4/2023,"no resid VSD/ ASD
+tr TR",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/4/2023
+110585976,1,174,1/18/2023,A flutter - emergent DCCV,clinical,{},AE,{},Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,175,3/12/2023,iNO started,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,176,10/27/2022,"colostomy, G-tube",clinical,{},OPRP,{},Brianne.Reedy@cchmc.org,5/4/2023
+110585976,1,177,4/6/2023,new G-tube,clinical,{},OPRP,{},Brianne.Reedy@cchmc.org,5/4/2023
+110585976,1,178,1/7/2023,"Trivial VSD patch leak 
+mild TR, RVP= 20 + RA",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/1/2023
+110604181,1,120,4/25/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/1/2023
+110604181,1,121,4/26/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/1/2023
+110604181,1,169,4/24/2023,"intracardiac repair of TOF 
+w/ trans annular patch & Gore-Tex patch closure of VSD
+calibration of PFO
+tricuspid valvuloplasty
+ligation of PDA
+CPB 255m |  XC 178m",clinical,"{""110604181_1_227"": ""Intraop Photos_2023-05-05.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/4/2023
+110604181,1,170,4/24/2023,"TOF, large VSD
+hypoplastic PV, peak 70mmHg
+normal LV/RV fxn",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/4/2023
+110604181,1,171,4/26/2023,"no residual VSD
+free PI, trivial TR/MR
+",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,118,4/30/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,119,5/1/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,160,4/27/2023,"Rastelli A AVSD
+trivial AVVR
+Large VSD/ASD (L to R)
+Normal LV/RV fxn",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/4/2023
+110614188,1,166,5/2/2023,"PAB peak/mean 42/24
+mild AVVR",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/1/2023
+110628459,1,1,4/21/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,4/25/2023
+110628459,1,2,4/20/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,4/25/2023
+110628459,1,60,4/19/2023,"1. L thoracotomy
+2. resection of CoA
+3. CoA repair w/ extended end to end anastomosis
+4. ligation & division of ligamentum arteriosum
+XC 24m",clinical,"{""110628459_1_84"": ""Photos_IntraOp Hawkins_2023-04-19.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/28/2023
+110628459,1,61,4/19/2023,"discrete CoA
+peak/mean 67/33
+LV mild dysfx ",image-echo,{},,{},Brianne.Reedy@cchmc.org,4/28/2023
+110628459,1,62,4/21/2023,"no resid Ao obstruction
+LV nml fx",image-echo,{},,{},Brianne.Reedy@cchmc.org,4/25/2023
+110628711,1,122,4/27/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/1/2023
+110628711,1,123,4/28/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/1/2023
+110628711,1,167,4/26/2023,"median sternotomy
+intracardiac closure of VSD with Gore-Tex patch
+CPB 97m |  XC 54m",image-photo,"{""110628711_1_224"": ""Intraop Photos_2023-05-26.pdf""}",,{},Brianne.Reedy@cchmc.org,5/4/2023
+110628711,1,168,4/28/2023,"Tiny residual VSD
+Trace AI, Mild TR (RVSP 43+RAP)
+Normal LV/RV fxn
+",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/4/2023
+11078640,1,16,4/11/2023,"Ross (reinforced)
+AscAo replacement (26mm interposition graft)
+RVOT reconstruction (24mm pulm homograft)
+CPB 277m |  159m",clinical,"{""11078640_1_15"": ""Pre Brief_2023-04-11.pdf"", ""11078640_1_16"": ""Report_CTS_2023-04-11.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/25/2023
+11078640,1,17,4/14/2023,NULL,clinical,"{""11078640_1_17"": ""DC Summary_2023-04-14.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,4/25/2023
+11078640,1,46,4/11/2023,"no neoAS, tr neoAI
+laminar flow graft/supravalv Ao
+laminar flow RVOT, no PS, tr PI
+echobrit pulm homogr - fat pad?
+no PS, tr PI
+biV nml fx
+septal dyskinesia",image-echo,"{""11078640_1_62"": ""Echo_TEE_2023-04-11.pdf""}",,{},Brianne.Reedy@cchmc.org,4/27/2023
+11078640,1,47,4/12/2023,"no neoAS, tr neoAI
+laminar flow across RVOT
+no PS, tr PI
+biV nml fx
+hypokinesis basal/mid inferoseptal & anteroseptal segments",image-echo,"{""11078640_1_60"": ""Echo_TTE_2023-04-12.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+11078640,1,48,4/14/2023,"hypokinesis basal/mid anteroseptal segments
+no neoAS, tr neoAI
+laminar flow RVOT, no PS, tr PI
+biV mild dysfx",image-echo,"{""11078640_1_61"": ""Echo_TTE_2023-04-14.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+11112222,1,444,8/15/2025,Discharged home to West Virginia,clinical,"{""11112222_1_691"": ""DC Summary_2023-06-03.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,9/16/2025
+11112222,1,445,8/12/2025,Chest tube was removed by K.M.,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,9/16/2025
+11112222,1,446,8/7/2025,"Nicely preserved pericardiaI planes, and previous PTFE membrane covering the conduit well to the left. The aorta was prominent in the midline.
+Well developed PAs. Some enlarged and prominent RV muscle bundles within the opening of RV.
+Dense adhesions between PAs and the aorta.",clinical,{},OPRP,{},Brianne.Reedy@cchmc.org,9/16/2025
+11112222,1,455,8/9/2025,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,9/4/2025
+11112222,1,456,8/7/2025,"Nicely preserved pericardiaI planes, and previous PTFE membrane covering the conduit which was well to the left. The aorta was prominent in the midline.
+Well developed pulmonary arteries. Some enlarged and prominent RV muscle bundles within the opening of the RV.
+Dense adhesions between the pulmonary arteries and the aorta.",clinical,"{""11112222_1_690"": ""Report_CTS_2023-05-31.pdf"", ""11112222_1_695"": ""Pre Brief_2023-05-31.pdf"", ""11112222_1_696"": ""cardiac surgery photo.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,9/16/2025
+11112222,1,457,8/7/2025,"no resid ASD
+no resid VSD
+no conduit regurg,  PG 17
+biV nml fx",image-echo,"{""11112222_1_693"": ""Echo_TEE_2023-05-31.pdf""}",,{},Brianne.Reedy@cchmc.org,9/16/2025
+11112222,1,458,8/11/2025,"tr conduit stenosis, PG 15
+no conduit regurg
+biV nml fx",image-echo,"{""11112222_1_694"": ""Echo_TTE_2023-06-03.pdf""}",,{},Brianne.Reedy@cchmc.org,9/4/2025
+111222333,1,452,1/10/2025,milrinone d/c,clinical,{},IO,{},Brianne.Reedy@cchmc.org,8/29/2025
+111222333,1,453,1/20/2025,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,8/29/2025
+11223344,1,441,8/6/2025,NULL,clinical,{},CTP,{},gAAAAABoij8KxjsfcWDYN6P4dNc0Q7KDZ0FSDy3SFMK05CRGydpEfIajFn2r9WbtKpio6PU1fTQhzMXn4wm9YSeqdzW_6pqHoAak,8/2/2025
+11223344,1,442,8/7/2025,NULL,clinical,{},CTO,{},Kelvin.Mantey@cchmc.org,8/4/2025
+11223344,1,443,8/7/2025,Test notes,clinical,{},CTP,{},Kelvin.Mantey@cchmc.org,8/5/2025
+11223545435,1,417,4/21/2025,NULL,clinical,{},MRT,{},Bayard.Rucker@cchmc.org,4/22/2025
+11522821,1,202,5/3/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/9/2023
+11522821,1,203,5/5/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+11522821,1,242,5/1/2023,"1. Ross Procedure (20mm Pulm Homograft)
+2. SVC Reconstruction (Removal of Gortex conduit & use of RA Flap/Bovine Pericardium)
+CPB 306m |  XC 148m",clinical,"{""11522821_1_325"": ""Pre Brief_2023-05-01.pdf"", ""11522821_1_326"": ""Report_CTS_2023-05-01.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/12/2023
+11522821,1,243,5/1/2023,"CAs nml origins & flow
+unobstr SVC
+no PS, no PR
+no neoAS, tr neoAR
+biV nml fx",image-echo,"{""11522821_1_327"": ""Echo_TEE_2023-05-01.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+11522821,1,244,5/3/2023,"CAs nml origins & flow
+no PS, tr PR
+brPA flow accel
+mild TR, mild MR
+no neoAS, mild neoAR
+RVp 37+RA
+biV nml fx
+mod L pl effusion",image-echo,"{""11522821_1_328"": ""Echo_TTE_2023-05-03.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+11522821,1,245,5/6/2023,"SVC unobstr
+no PS, tr PR
+RPA PG 22
+mild TR, mild MR
+no neoAS, mild neoAR
+RVp 32+RA
+no LVOTO
+biV nml fx
+mod L/ sm R pl effusions",image-echo,"{""11522821_1_329"": ""Echo_TTE_2023-05-06.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+11522821,1,246,5/2/2023,"slow sinus
+--> paced",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/9/2023
+11899650,1,24,4/17/2023,"supported Ross w/ 28mm hema shield conduit w/ gore-tex leaflets
+CPB 282m | XC 218m",clinical,"{""11899650_1_28"": ""Pre Brief_2023-04-17.pdf"", ""11899650_1_29"": ""Report_CTS_2023-04-17.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/25/2023
+11899650,1,25,4/20/2023,"new onset A fib, symptomatic
+to CICU --> ketamine & synchronized DCCV
+return of sinus rhythm, HR 70s",clinical,"{""11899650_1_46"": ""AE_2023-04-20.pdf""}",MRT,{},Brianne.Reedy@cchmc.org,4/27/2023
+11899650,1,26,4/23/2023,NULL,clinical,"{""11899650_1_30"": ""DC Summary_2023-04-23.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,4/25/2023
+11899650,1,27,4/18/2023,milrinone dc,clinical,{},IO,{},Brianne.Reedy@cchmc.org,4/25/2023
+11899650,1,28,4/19/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,4/25/2023
+11899650,1,38,4/17/2023,"mild neoAR, no neoAS
+biV nml fx
+coronary origins not well visualized
+no regional wall motion abnormalities",image-echo,"{""11899650_1_44"": ""Echo_TEE_2023-04-17.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+11899650,1,39,4/20/2023,"limited d/t poor windows
+no neoAS, mild neoAR
+no RV-PA conduit stenosis, m/mod regurg
+unobstr arch (dAo not well seen)
+RV nml fx
+LV nml fx, EF 50-55%",image-echo,"{""11899650_1_47"": ""Echo_TTE_2023-04-20.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+11917517,1,197,5/5/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+11917517,1,198,5/4/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/9/2023
+11917517,1,228,4/25/2023,"Cath: bl-> 5L NRB, 100% fiO2-> iNO 80
+CI 3.24-> 2.47-> 3.32
+SVC baffle 3
+LVSP 51 RVSP 103 (1/2 systemic)
+LVEDp 12, TPG 9-> 10-> 6
+mPAp 34-> 37-> 36
+mPCWP 25-> 27-> 30
+PVRi 2.47-> 4.04-> 1.81
+RVEDp 26
+no LVOTO
+nml CAs
+b/l ext iliac 
+  vein occlusion",clinical,"{""11917517_1_298"": ""Report_Cath_2023-04-25.pdf""}",CATH,{},Brianne.Reedy@cchmc.org,5/9/2023
+11917517,1,229,5/2/2023,"1  Aortic root replacement w/ 25mm On-X composite graft
+2  AscAo replacement
+    CPB 212m | XC 140m
+",clinical,"{""11917517_1_389"": ""Pre Brief_2023-05-02.pdf"", ""11917517_1_390"": ""Report_CTS_2023-05-02.pdf"", ""11917517_1_391"": ""IntraOp Photo_Toy.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/12/2023
+11917517,1,230,5/2/2023,"TEE:
+tr TR
+AV no flow accel, 
+  tr washing jets
+RV mild dysfx
+LV nml fx",image-echo,"{""11917517_1_303"": ""Echo_TEE_2023-05-02.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+11917517,1,231,4/19/2023,"transfer from Vanderbilt
+",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/9/2023
+11917517,1,232,5/3/2023,slow sinus-> paced,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/9/2023
+11917517,1,233,5/9/2023,"extremely limited imaging
+LV nml fx",image-echo,"{""11917517_1_305"": ""Echo_TTE_2023-05-09.pdf""}",,{},Brianne.Reedy@cchmc.org,5/12/2023
+11917517,1,236,4/21/2023,NULL,image-echo,"{""11917517_1_307"": ""Echo_TTE_2023-04-21.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+11917517,1,237,5/4/2023,"extremely limited imaging
+LV nml fx",image-echo,"{""11917517_1_309"": ""Echo_TTE_2023-05-04.pdf""}",,{},Brianne.Reedy@cchmc.org,5/12/2023
+11954791,1,207,5/3/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+11954791,1,208,5/3/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/9/2023
+11954791,1,253,5/2/2023,"no ASD
+no resid VSD
+PV PG 20-25, mild PI
+no resid RVOTO
+RV nml fx",image-echo,"{""11954791_1_339"": ""Echo_TEE_2023-05-02.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+11954791,1,254,5/2/2023,"1  RV myectomy
+2  RVOT patch augmentation
+CPB 91m | XC 34m",clinical,"{""11954791_1_341"": ""Pre Brief_2023-05-02.pdf"", ""11954791_1_342"": ""Report_CTS_2023-05-02.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/9/2023
+11954791,1,255,5/5/2023,"no ASD
+no resid VSD
+PV PG 20
+25, mild PI
+no resid RVOTO
+RV nml fx",image-echo,"{""11954791_1_343"": ""Echo_TTE_2023-05-05.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+11980775,1,199,5/4/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/9/2023
+11980775,1,200,5/4/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+11980775,1,238,5/3/2023,"no resid ASDs
+no PS, tr PR
+no R AVVS, tr R AVVR
+no L AVVS, tr L AVVR
+no LVOTO
+biV nml fx",image-echo,"{""11980775_1_314"": ""Echo_TEE_2023-05-03.pdf""}",,{},Brianne.Reedy@cchmc.org,5/12/2023
+11980775,1,239,5/7/2023,"no resid ASDs
+no resid VSD
+no PS, tr PR
+no R AVVS, tr R AVVR
+no L AVVS, tr L AVVR
+no LVOTO
+biV nml fx",image-echo,"{""11980775_1_315"": ""Echo_TTE_2023-05-07.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+11980775,1,240,5/3/2023,"Transitional AVSD Repair
+CPB 119m | XC 83m",clinical,"{""11980775_1_316"": ""Pre Brief_2023-05-03.pdf"", ""11980775_1_317"": ""Report_CTS_2023-05-03.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/9/2023
+11994901,1,13,4/21/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,14,4/24/2023,increased WOB,clinical,"{""11994901_1_33"": ""AE_2023-04-24.pdf""}",MRT,{},Brianne.Reedy@cchmc.org,4/26/2023
+11994901,1,15,4/25/2023,"Acute hypoxemic respiratory failure in setting of R pleural effusion
+R hemothorax - CT placed
+70cc dark blood drained",clinical,{},CTP,{},Brianne.Reedy@cchmc.org,4/26/2023
+11994901,1,29,4/18/2023,"Repair of PAPVR
+Creation of ASD
+CPB 147m | XC 91m",clinical,"{""11994901_1_31"": ""Pre Brief_2023-04-18.pdf"", ""11994901_1_32"": ""Report_CTS_2023-04-18.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,33,4/23/2023,"Watcher - HR/RR increasing
+feed intolerance",clinical,"{""11994901_1_37"": ""AE_2023-04-23.pdf""}",AE,{},Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,34,4/18/2023,"unobstr anomalous R-PVs to LA, no patch leak
+LLPV MG 3
+unobstr SVC to RA, MG 1.5
+no baffle leak, no ASD
+BAV, no AS, no AI
+biV nml fx",image-echo,"{""11994901_1_39"": ""Echo_TEE_2023-04-18.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,35,4/23/2023,"unobstr R-PVs to LA, 
+LLPV MG 2
+SVC to RA MG 3
+no baffle leak, no ASD
+tr MS, MG 2
+arch not visualized
+biV nml fx
+tr anterior pericard effusion",image-echo,"{""11994901_1_40"": ""Echo_TTE_2023-04-23.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+12084978,1,201,5/6/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+12084978,1,234,4/29/2023,"ED admit r/t possible complex rebrile sz & known Brugada syndrome
+",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/9/2023
+12084978,1,235,5/5/2023,"nml cardiac anatomy
+biV nml fx",image-echo,"{""12084978_1_306"": ""Echo_TTE_2023-05-05.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+12084978,1,241,5/4/2023,ICD placement via lower partial sternotomy,clinical,"{""12084978_1_321"": ""Pre Brief_2023-05-04.pdf"", ""12084978_1_322"": ""Report_CTS_2023-05-04.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/12/2023
+12107767,1,218,5/8/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+12107767,1,273,8/15/2022,"admit for
+initiation of
+milrinone",clinical,{},OPRP,{},Brianne.Reedy@cchmc.org,5/9/2023
+12107767,1,274,8/26/2022,"hemodyn cath:
+CI 3.42, Qp:Qs 0.54
+RVEDp 8
+BDG 15
+no PA stenosis
+PVR 2.73
+no stent stenosis",clinical,"{""12107767_1_371"": ""Report_Cath_2022-08-26.pdf""}",CATH,{},Brianne.Reedy@cchmc.org,5/12/2023
+12107767,1,275,8/21/2022,"MRT: decomp HF
+->Ca gtt in CICU",clinical,{},MRT,{},Brianne.Reedy@cchmc.org,5/12/2023
+12107767,1,276,10/16/2022," febrile, tachycardic
+to CICU for further w/u",clinical,{},MRT,{},Brianne.Reedy@cchmc.org,5/9/2023
+12107767,1,277,4/10/2023,"tachycardia management
+in high risk patient",clinical,{},MRT,{},Brianne.Reedy@cchmc.org,5/9/2023
+12107767,1,278,4/30/2023,"1  OHT
+2  BDG takedown
+3  R/L Pulmonary Arterioplasty
+    CPB 286m |  DIT 296m",clinical,"{""12107767_1_374"": ""Pre Brief_2023-04-30.pdf"", ""12107767_1_375"": ""Report_CTS_2023-04-30.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/12/2023
+12107767,1,279,5/1/2023,"IVC laminar flow
+brPAs laminar flow
+mild TR
+m/mod MR
+tr AR
+RV m/mod dysfx
+LV nml fx",image-echo,"{""12107767_1_384"": ""Echo_TEE_2023-04-30.pdf""}",,{},Brianne.Reedy@cchmc.org,5/12/2023
+12107767,1,280,5/5/2023,"LPA stented
+Ao stent dilation
+
+Cath: CI 3.31, Qp:Qs 0.1
+unobstr caval-RA (1)
+RVEDp 10
+no RVOTO/ MPA unobstr
+RVSp 45
+mPAp 25, TPG 4
+MPA-RPA 17, MPA-LPA 23
+LPA kinked?
+PVR 1.2, LVEDp 11
+no arch gradient,
+but angiographic
+in stent stenosis",clinical,"{""12107767_1_378"": ""Report_Cath_2023-05-05.pdf""}",CATH,{},Brianne.Reedy@cchmc.org,5/12/2023
+12107767,1,281,5/1/2023,"jxn/brady
+-> paced",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/9/2023
+12107767,1,282,5/10/2023,"mild TR, mod MR
+RPA /LPA mild gradient
+RVSP 32+CVP
+dAo PG 19
+RV mild dysfx
+LV nml fx",image-echo,"{""12107767_1_379"": ""Echo_TTE_2023-05-10.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+12107767,1,283,5/8/2023,"mild TR, mod MR
+stented LPA unobstr into b/l brPAs
+stented dAo unobstr PG 14
+no RV HTN
+RV mild dysfx
+LV nml fx",image-echo,"{""12107767_1_385"": ""Echo_TTE_2023-05-08.pdf""}",,{},Brianne.Reedy@cchmc.org,5/12/2023
+12107767,1,284,5/2/2023,"unobstr flow into b/l brPAs
+mod/sev TR
+mild MR
+RV sev dysfx
+LV nml fx",image-echo,"{""12107767_1_383"": ""Echo_TTE_2023-05-02.pdf""}",,{},Brianne.Reedy@cchmc.org,5/12/2023
+121212,1,459,11/6/2025,milrinone d/c'd,clinical,{},IO,{},Brianne.Reedy@cchmc.org,11/4/2025
+12149867,1,142,5/1/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,143,5/1/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,144,4/27/2023,"Transitional AVSD repair
+PV repair
+Main Pulmonary Arterioplasty
+CPB 228m |  XC 182m",clinical,"{""12149867_1_200"": ""Pre Brief_2023-04-27.pdf"", ""12149867_1_201"": ""Report_CTS_2023-04-27.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/4/2023
+12149867,1,145,4/27/2023,"no resid ASD/ VSD
+mild R/L AVVS
+mild R/L AVVR
+tr resid PS, m/mod PI
+no LVOTO
+biV low nml fx",image-echo,"{""12149867_1_246"": ""Echo_TEE_2023-04-27.pdf""}",,{},Brianne.Reedy@cchmc.org,5/5/2023
+12149867,1,146,4/29/2023,"no resid ASD/ VSD
+mild R/L AVVS MG 4-5
+mod R AVVR
+m/mod L AVVR
+mild PS (17), m/mod PI
+no LVOTO
+RVp ~1/2 systemic
+biV mild dysfx",image-echo,"{""12149867_1_247"": ""Echo_TTE_2023-04-29.pdf""}",,{},Brianne.Reedy@cchmc.org,5/5/2023
+12149867,1,191,5/4/2023,NULL,clinical,"{""12149867_1_255"": ""DC Summary_2023-05-04.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,192,5/4/2023,"no resid ASD/ VSD
+mild R AVVS (3), mod R AVVR
+mild L AVVS (4-5), m/mod L AVVR
+mild PS (25), m/mod PI
+RV HTN <1/2 systemic
+no LVOTO
+RV low nml fx
+LV nml fx",image-echo,"{""12149867_1_256"": ""Echo_TEE_2023-05-04.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,85,11/23/2022,"Aortic Arch Reconstruction
+Division of Vascular Ring
+ASD Closure
+VSD Closure
+CPB 260m |  XC 124m",clinical,"{""12174253_1_114"": ""Report_CTS_2022_11_23.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,86,11/9/2022,"born in FCC
+H&P",clinical,"{""12174253_1_115"": ""H-P_2022_11_09.pdf""}",OTHR,{},guest,5/1/2023
+12174253,1,87,11/23/2022,Epicardial echo,image-echo,"{""12174253_1_121"": ""Echo_Epi_2022_11_23.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,88,11/10/2022,TEF ligation + esophageal anastomosis,clinical,{},OPRP,{},Brianne.Reedy@cchmc.org,5/2/2023
+12174253,1,89,1/27/2023,"SubAo Membrane Resection
+Myectomy
+Aortic Valvuloplasty
+Patch aortoplasty of ascAo
+Mitral Valve Repair
+Patch venoplasty of R SVC
+CPB 135+210+64|  XC 70+159 ",clinical,"{""12174253_1_146"": ""Report_CTS_2023_01_27.pdf"", ""12174253_1_147"": ""Report_non CTS_2023_01_27.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/2/2023
+12174253,1,90,1/27/2023,NULL,image-echo,"{""12174253_1_126"": ""Echo_TTE_2023_01_27.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,91,4/22/2023,Peritoneal Cath Insert,clinical,"{""12174253_1_129"": ""Report_CTS_2023-04-22.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,92,4/3/2023,Revision of Cormatrix Mitral Valve,clinical,"{""12174253_1_142"": ""Report_CTS_2023_04_03.pdf"", ""12174253_1_143"": ""Report_non CTS_2023_04_03.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/2/2023
+12174253,1,93,4/3/2023,NULL,image-echo,"{""12174253_1_131"": ""Echo_TTE_2023_04_03.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,94,4/19/2023,"R-sided PVs unobstr
+LUPV unobstr
+LLPV MG 1-2
+R SVC occluded
+no resid CoA
+RV mild dysfx
+LV nml fx",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/5/2023
+12174253,1,95,4/25/2023,NULL,clinical,"{""12174253_1_135"": ""DC Summary_2023-04-25.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,96,1/5/2023,trachesotomy & Gtube placed,clinical,"{""12174253_1_137"": ""Report_non CTS_2023_01_05.pdf"", ""12174253_1_138"": ""Report_non CTS_2023_01_05_130",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,97,12/9/2022,airway eval,clinical,"{""12174253_1_139"": ""Report_non CTS_2022_12_09.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,98,3/23/2023,"MV replacement - 12mm handmade CorMatrix valve
+TV repair
+CPB 217m |  XC 149m",clinical,"{""12174253_1_144"": ""Report_CTS_2023_03_23.pdf"", ""12174253_1_145"": ""Report_non CTS_2023_03_23.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/2/2023
+12174253,1,99,1/31/2023,delayed sternal closure,clinical,"{""12174253_1_141"": ""Report_CTS_2023_01_31.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,100,4/18/2023,alveolar hemorrhage,clinical,"{""12174253_1_252"": ""Report_Bronch_2023-04-18.pdf""}",Airway Scope_B,{},Brianne.Reedy@cchmc.org,5/5/2023
+12174253,1,101,12/6/2022,NULL,clinical,"{""12174253_1_153"": ""Report_Bronch_2022_12_06.pdf""}",Airway Scope_B,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,102,4/18/2023,NULL,image-echo,"{""12174253_1_154"": ""Echo_TTE_2023-04-18.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,103,4/11/2023,NULL,image-echo,"{""12174253_1_155"": ""Echo_TTE_2023-04-11.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,104,4/6/2023,NULL,image-echo,"{""12174253_1_156"": ""Echo_TTE_2023-04-06.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,105,3/30/2023,NULL,image-echo,"{""12174253_1_157"": ""Echo_TTE_2023_03_30.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,106,3/28/2023,NULL,image-echo,"{""12174253_1_158"": ""Echo_TTE_2023_03_28.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,107,3/26/2023,NULL,image-echo,"{""12174253_1_159"": ""Echo_TTE_2023_03_26.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,108,3/24/2023,NULL,image-echo,"{""12174253_1_160"": ""Echo_TTE_2023_03_24.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,109,2/1/2023,NULL,image-echo,"{""12174253_1_161"": ""Echo_TTE_2023_02_01.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,110,2/5/2023,NULL,image-echo,"{""12174253_1_162"": ""Echo_TTE_2023_02_05.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,111,2/14/2023,NULL,image-echo,"{""12174253_1_163"": ""Echo_TTE_2023_02_14.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,112,2/20/2023,NULL,image-echo,"{""12174253_1_164"": ""Echo_TTE_2023_02_20.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,113,2/27/2023,"mod/sev TR
+sev TR",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/5/2023
+12174253,1,114,3/3/2023,NULL,image-echo,"{""12174253_1_166"": ""Echo_TTE_2023_03_03.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,115,3/9/2023,NULL,image-echo,"{""12174253_1_167"": ""Echo_TTE_2023_03_09.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,116,3/13/2023,NULL,image-echo,"{""12174253_1_168"": ""Echo_TTE_2023_03_13.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,117,3/20/2023,NULL,image-echo,"{""12174253_1_169"": ""Echo_TTE_2023_03_20.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,188,12/10/2022,"bradycardic arrest
+CPR x1 min -> ROSC",clinical,{},CA,{},Brianne.Reedy@cchmc.org,5/5/2023
+12174253,1,189,2/7/2023,medical NEC,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,190,2/25/2023,RCx: + Enterobacter,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,196,11/9/2022,ECHO + CT heart,image-echo,"{""12174253_1_275"": ""CT_heart_2022_11_09.pdf"", ""12174253_1_276"": ""Echo_TTE_2022_11_09 - TEST.pdf""}",,{},Brianne.Reedy@cchmc.org,5/11/2023
+12196122,1,211,4/22/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+12196122,1,212,4/22/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/9/2023
+12196122,1,261,4/21/2023,"1  Creation of superior cavopulmonary connection pulmonary homograft patch
+2  Augmentation of Glenn and central PAs
+3  Takedown of Sano RV-PA connection
+    CPB 105m",clinical,"{""12196122_1_353"": ""Pre Brief_2023-04-21.pdf"", ""12196122_1_354"": ""Report_CTS_2023-04-21.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/9/2023
+12196122,1,262,4/21/2023,"unrestr ASD
+mild TR
+unobstr DKS
+no neoAR
+RV nml fx",image-echo,"{""12196122_1_356"": ""Echo_TEE_2023-04-21.pdf""}",,{},Brianne.Reedy@cchmc.org,5/12/2023
+12196198,1,151,3/12/2023,"concern for infection
+BCx: + Klebsiella / Staph epi",clinical,"{""12196198_1_229"": ""AE_2023-03-12.pdf""}",MRT,{},Brianne.Reedy@cchmc.org,5/4/2023
+12196198,1,152,4/1/2023,"watcher for increased oxygenation requirements, irritability and inability to compensate while agitated
+",clinical,"{""12196198_1_213"": ""AE_2023-04-01.pdf""}",AE,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,153,4/4/2023,"watcher
+R > L discrepancy on CXR
+to IR for R pl chest tube - chylous",clinical,"{""12196198_1_234"": ""AE_2023-04-04.pdf""}",AE,{},Brianne.Reedy@cchmc.org,5/5/2023
+12196198,1,154,2/16/2023,direct admit for chronic desat and FTT,clinical,"{""12196198_1_215"": ""H-P_2023-02-16.pdf""}",OTHR,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,155,3/28/2023,"b/l BDG
+Sano takedown
+TV repair
+CPB 203m |  XC 91m",clinical,"{""12196198_1_216"": ""Pre Brief_2023-03-28.pdf"", ""12196198_1_217"": ""Report_CTS_2023-03-28.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,156,3/28/2023,"unobstr DKS
+unrestr ASD
+no TS (1), tr TR
+b/l BDG low vel
+  phasic flow
+tr neoAR
+RV mild dysfx",image-echo,"{""12196198_1_248"": ""Echo_TEE_2023-03-28.pdf""}",,{},Brianne.Reedy@cchmc.org,5/5/2023
+12196198,1,157,4/14/2023,"R/L SVC; RPA; central PA
+balloon dilation
+CI 5.2,  Qp:Qs 0.5
+RVEDp 11
+BDG 16-17
+BDG 1-2, PVRi 2.3
+improvement s/p balloon",clinical,"{""12196198_1_254"": ""Report_Cath_2023-04-14.pdf""}",CATH,{},Brianne.Reedy@cchmc.org,5/5/2023
+12196198,1,179,3/30/2023,"BCx:
++ Klebsiella / Staph epi",clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/4/2023
+12196198,1,180,3/30/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,181,3/31/2023,"no TS (1-2), mild TR
+b/l BDG low vel
+  phasic flow
+tr neoAR
+RV mild dysfx",image-echo,"{""12196198_1_232"": ""Echo_TTE_2023-03-31.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,182,4/5/2023,"unrestr ASD
+no signif TS (3) 
+mod TR
+b/l BDG low vel
+  phasic flow
+tr neoAR
+RV mild dysfx
+mod R pl effusion",image-echo,"{""12196198_1_233"": ""Echo_TTE_2023-04-05.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,137,4/17/2023,NULL,clinical,"{""12196315_1_187"": ""DC Summary_2023-04-17.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,138,3/15/2023,"bradycardic arrest
+CPR x 2min -> ROSC",clinical,"{""12196315_1_188"": ""Code Sheet_2023-03-15.pdf"", ""12196315_1_189"": ""AE_2023-03-15.pdf""}",CA,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,139,3/10/2023,"DORV repair
+VSD closure
+PV commissurotomy
+PDA ligation
+CPB 113 | XC 89m",clinical,"{""12196315_1_190"": ""Pre Brief_2023-03-10.pdf"", ""12196315_1_191"": ""Report_CTS_2023-03-10.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,140,1/24/2023,"airway eval
+tight AE folds
+m/mod bronchomalacia",clinical,"{""12196315_1_249"": ""Report_non CTS_2023-01-24.pdf"", ""12196315_1_250"": ""Report_Bronch_2023-01-24.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/5/2023
+12196315,1,141,3/10/2023,"no ASD
+tr resid L->R VSD
+PV PG 20, no PR
+no LVOTO
+biV nml fx",image-echo,"{""12196315_1_237"": ""Echo_TEE_2023-03-10.pdf""}",,{},Brianne.Reedy@cchmc.org,5/5/2023
+12196315,1,183,2/5/2023,coronavirus PNA,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/5/2023
+12196315,1,184,3/13/2023,"no ASD
+tr resid L->R VSD (32)
+PV PG 22, no PR
+RV HTN
+RV nml fx
+LV mild dysfx",image-echo,"{""12196315_1_238"": ""Echo_TTE_2023-03-13.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,185,3/15/2023,"PV PG 34, no PR
+RV HTN
+RV nml fx
+LV mild dysfx",image-echo,"{""12196315_1_239"": ""Echo_TTE_2023-03-15.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,186,4/1/2023,"sm resid L->R VSD (60)
+PV PG 32, tr PR
+RVSP 33 (SBP 93)
+RV nml fx
+LV mild dysfx",image-echo,"{""12196315_1_240"": ""Echo_TTE_2023-04-01.pdf""}",,{},Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,187,1/2/2023,admit to NICU r/t desats w/ feeding,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/1/2023
+12201745,1,219,3/24/2023,"bronch:
+signif tracheo-
+  malacia
+mild laryngo-
+  malacia",clinical,"{""12201745_1_286"": ""Report_Bronch_2023-03-24.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,220,4/13/2023,"no resid CoA
+mod MS MG 8
+tr MR
+LVOT PG 24
+no AR, no AS
+RV nml fx
+LV low nml fx",image-echo,"{""12201745_1_287"": ""Echo_TTE_2023-04-13.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,221,1/6/2023,"TEE: 
+L-> R PFO
+tr TR, no TS
+tr MR, no MS
+LV nml fx",image-echo,"{""12201745_1_288"": ""Echo_TEE_2023_01_06.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,222,1/6/2023,"1. Aortic arch advancement
+    CPB 82m | XC 44m
+",clinical,"{""12201745_1_289"": ""Report_CTS_2023_01_06.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,223,2/23/2023,"fluoro: 
+nml b/l diaphragm mvmnt",clinical,"{""12201745_1_293"": ""Report_Cath_2023-02-23.pdf""}",CATH,{},Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,224,2/10/2023,"airway eval:
+LVC paresis
+laryngomalacia
+tight AE folds
+no signif glottic 
+  obstruction
+trachea w/ pig 
+  bronchus to RUL",clinical,"{""12201745_1_294"": ""Report_non CTS_2023-02-10.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,225,12/20/2022,delivered in FCC,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,226,1/10/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,227,1/11/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/9/2023
+12205948,1,209,4/26/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+12205948,1,210,4/27/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/9/2023
+12205948,1,256,4/24/2023,"BDG w/ augmentation of central and right PAs w/ pulm homograft
+CPB 113m",clinical,"{""12205948_1_386"": ""Pre Brief_2023-04-24.pdf"", ""12205948_1_387"": ""Report_CTS_2023-04-24.pdf"", ""12205948_1_388"": ""Intraop Photo.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/12/2023
+12205948,1,257,4/24/2023,"BDG brPAs low vel flow
+unrestr ASD
+m/mod TR
+no neoAS, tr neoAI
+RV nml fx",image-echo,"{""12205948_1_346"": ""Echo_TEE_2023-04-24.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+12205948,1,258,5/1/2023,"BDG brPAs low vel flow
+LPA mild narrowing
+unrestr ASD
+mod TR
+no neoAS, tr neoAI
+unobstr arch
+RV nml fx",image-echo,"{""12205948_1_347"": ""Echo_TTE_2023-05-01.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+12205948,1,259,4/18/2023,"admit from interstage
+clinic r/t hypoxia (70s)",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/9/2023
+12205948,1,260,4/18/2023,NULL,image-echo,"{""12205948_1_349"": ""Echo_TTE_2023-04-18.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+12205948,1,286,5/1/2023,prolonged O2 wean,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/9/2023
+12206095,1,131,4/29/2023,NULL,clinical,"{""12206095_1_179"": ""DC Summary_2023-04-29.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,5/1/2023
+12206095,1,132,4/25/2023,"AoV repair 21mm HAART 300 annuloplasty ring / leaflet plication & shaving
+CPB 206m |  XC 141m",clinical,"{""12206095_1_180"": ""Pre Brief_2023-04-25.pdf"", ""12206095_1_181"": ""Report_CTS_2023-04-25.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12206095,1,133,4/25/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/1/2023
+12206095,1,134,4/27/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/1/2023
+12206095,1,135,4/25/2023,"no PA stenosis
+no supravalvar PS
+no neoPS, mild neoPI
+no supravalv AS/AI
+no neoAS, mild neoAI
+biV nml fx
+",image-echo,"{""12206095_1_350"": ""Echo_TEE_2023-04-25.pdf""}",,{},Brianne.Reedy@cchmc.org,5/12/2023
+12206095,1,136,4/28/2023,"no PA stenosis
+no neoAS, mild neoAI
+unobstr arch
+RV mild dysfx
+LV m/mod dysfx",image-echo,"{""12206095_1_351"": ""Echo_TTE_2023-04-28.pdf""}",,{},Brianne.Reedy@cchmc.org,5/12/2023
+12209987,1,213,4/21/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+12209987,1,214,4/21/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/9/2023
+12209987,1,263,4/13/2023,"admit from
+clinic r/t HF
+exacerbation",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/9/2023
+12209987,1,264,4/19/2023,"1. Two patch repair of CAVC, L AVV annuloplasty & commisuroplasties
+2. Ligation of PDA
+3. Division and resection of RV muscle bundles
+CPB 226m | XC 176m",clinical,"{""12209987_1_359"": ""Pre Brief_2023-04-19.pdf"", ""12209987_1_360"": ""Report_CTS_2023-04-19.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/9/2023
+12209987,1,265,4/19/2023,"sm resid VSD
+mild R AVVR, no R AVVS
+tr L AVVR, no L AVVS
+no R/ LVOTO
+biV nml fx",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/9/2023
+12209987,1,266,4/24/2023,"sm resid VSD (41)
+m/mod R AVVR, no R AVVS
+tr L AVVR, no L AVVS
+biV mild dysfx",image-echo,"{""12209987_1_361"": ""Echo_TTE_2023-04-24.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+12209987,1,285,4/23/2023,compressing NG feeds,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/9/2023
+12214163,1,147,3/31/2023,transfer from Oklahoma Childrens for airway eval,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/1/2023
+12214163,1,148,4/3/2023,"airway eval:
+tracheobronchomalacia
+L bronchus compression 80%",clinical,"{""12214163_1_203"": ""Report_Bronch_2023-04-03.pdf"", ""12214163_1_204"": ""Report_non CTS_2023-04-03.pdf""",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12214163,1,149,4/26/2023,"pericardiopexy
+translocation of anterior & lateral diaphragm
+support of bronchus w/ ringed Gore-tex splint",clinical,"{""12214163_1_205"": ""Pre Brief_2023-04-26.pdf"", ""12214163_1_206"": ""Report_Bronch_2023-04-26.pdf"", ""12",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12214163,1,150,4/26/2023,"SVC MG 2
+unobstr IVC
+L-sided PVs MG 2
+dist LPA pk vel 1.3
+biV nml fx",image-echo,{},,{},Brianne.Reedy@cchmc.org,5/5/2023
+12218921,1,3,4/19/2023,DC wt 4.605 kg,clinical,"{""12218921_1_2"": ""DC Summary_2023-04-19.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,4,3/16/2023,transfer to NICU from Good Sam,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,5,4/6/2023,"CI 2.8 w/ pre-device Qp:Qs 4:1 assume PV sats 95%
+RVEDp 10
+RVSP 72; SBP 68 (mod valvar PS, pk to pk RV-PA gradient 33)
+- s/p balloon pulm valvuloplasty (10mm x 2cm Tyshak) 
+  residual 7 gradient
+no LVOTO, no arch obstruction
+unable to calculate PVRi in setting of PDA 
+- several events of tolerated SVT, responsive to adenosine x2",clinical,"{""12218921_1_51"": ""Report_Cath_2023-04-06.pdf"", ""12218921_1_52"": ""Echo_TTE_2023-04-06_0825.pdf""}",CATH,{},Brianne.Reedy@cchmc.org,4/27/2023
+12218921,1,6,4/7/2023,"PDA ligation
+XC 18m
+ETT mucus plug / exchange while exiting OR
+",clinical,"{""12218921_1_7"": ""Report_CTS_2023-04-07.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/26/2023
+12218921,1,7,4/8/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,8,4/3/2023,laryngomalacia,clinical,"{""12218921_1_48"": ""Report_ENT_2023-04-03.pdf""}",Airway Scope_NP scope,{},Brianne.Reedy@cchmc.org,4/27/2023
+12218921,1,40,4/6/2023,"Reason for echo: ST changes post cath
+
+lg, unrestr L-->R PDA, PG 18
+MPA severe dilation
+biV nml fx",image-echo,"{""12218921_1_49"": ""Echo_TTE_2023-04-06_1543.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,41,4/11/2023,"no resid PDA
+tr L-->R ASDs
+fenestr L-->R atrial septum
+no resid PS, m/mod PR
+MPA mod dilation, tr flow accel brPAs
+no AS, tr AR
+unobstr arch
+RV nml fx
+LV mild dysfx
+",image-echo,"{""12218921_1_50"": ""Echo_TTE_2023-04-11.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,42,4/5/2023,"fenestr atrial sept w/ L->R ASDs x2, MG 5-6
+sm mid & apical VSDs
+bicuspid pulm valve PG 41, mild PI
+mod PS, mod/lg, unrestr L->R PDA, PG 18
+BAV, fusion R/L cusps, mild AS, tr AR
+dAo PG 36 (prev 29)
+biV nml fx",image-echo,"{""12218921_1_53"": ""Echo_TTE_2023-04-05.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,69,4/14/2023,true VC immobility,clinical,"{""12218921_1_87"": ""Report_ENT_2023-04-14.pdf""}",Airway Scope_NP scope,{},Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,9,4/22/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,10,4/22/2023,epinephrine dc,clinical,{},IO,{},Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,11,4/18/2023,"TOF repair
+ASD closure
+PDA ligation
+CPB 228m |  XC 106m",clinical,"{""12229589_1_11"": ""Pre Brief_2023-04-18.pdf"", ""12229589_1_12"": ""Report_CTS_2023-04-18.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/26/2023
+12229589,1,30,4/12/2023,"admit from Peyton Manning Childrens Hospital for surgical planning.
+overnight developed WOB, desats. septic w/u done & transfer expedited",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,31,4/18/2023,"no resid ASD
+no resid preipatch VSD
+sm mid-musc/apical L-->R VSD
+tr TR
+laminar flow to brPAs, free PI, PG 12
+no resid RVOTO
+RV low nml fx
+LV nml fx
+",image-echo,"{""12229589_1_35"": ""Echo_TEE_2023-04-18.pdf""}",,{},Brianne.Reedy@cchmc.org,4/27/2023
+12229589,1,32,4/13/2023,"SVC to coronary sinus
+sm tortuous L-->R PDA
+fenestr L-->R atrial septum 
+lg unrestr bidir PM VSD
+mid-musc VSD x2, apical musc VSD x1
+subvalv + valv PS, combined PG 65
+unobstr, L-sided aortic arch
+biV nml fx",image-echo,"{""12229589_1_36"": ""Echo_TTE_2023-04-13.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,68,4/25/2023,"RVOT PG 25, free PI
+brPA b/l PG 16
+diastolic flow rev
+no resid peripatch VSD
+sm mid musc & apical L->R VSD
+tr TR
+no resid ASD
+RV low nml fx
+LV nml fx
+",image-echo,"{""12229589_1_86"": ""Echo_TTE_2023-04-25.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,12,4/14/2023,"hemi-mustard
+R BDG
+ASO w/ LeCompte
+MPA and RPAplasty
+VSD closure
+CPB 415m  |  XC 276m",clinical,"{""12230175_1_13"": ""Pre Brief_2023-04-14.pdf"", ""12230175_1_14"": ""Report_CTS_2023-04-14.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,49,4/26/2023,"decreased ECMO flows req epi spritzers / fluid boluses 
+increase epi / vaso gtts 
+neck repositioned 
+possible change in cannula position  -> explore surgically 
+Lactate to ~8
+improved with repositioning, fluid boluses, inotropes",clinical,"{""12230175_1_110"": ""AE_2023-04-26.pdf""}",AE,{},Brianne.Reedy@cchmc.org,4/28/2023
+12230175,1,50,4/15/2023," SVC syndrome; Glenn P high 30's
+Partial VA ECMO 
+    Venous: R BDG 
+    Arterial: Ao
+",clinical,"{""12230175_1_69"": ""Report_CTS_2023-04-15.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/27/2023
+12230175,1,51,4/15/2023,"interval history:
+progressive facial swelling, increasing glenn pressures
+had fluid resuscitation overnight 
+albumin, increased calcium gtt, start norepi
+responsive to calcium boluses
+mult doses bicarb",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,52,4/21/2023,Mediastinal washout for bleeding on ECMO,clinical,"{""12230175_1_70"": ""Report_CTS_2023-04-21.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,53,4/24/2023,"1 Mediastinal washout/ exploration
+2 Attempted ECMO wean
+",clinical,"{""12230175_1_80"": ""Report_CTS_2023-04-24.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/27/2023
+12230175,1,54,4/26/2023,"Mediastinal exploration
+Pericardiopexy",clinical,"{""12230175_1_71"": ""Report_CTS_2023-04-26.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,55,4/26/2023,"poor acoustic windows
+venous cannula not seen
+arterial cannula difficult to see
+flow directed at innom artery
+diminished abd Ao pulsatility
+mild neoAR, mild neoAS PG 29
+mild neoPS PG 19",image-echo,"{""12230175_1_109"": ""Echo_TTE_2023-04-26.pdf""}",,{},Brianne.Reedy@cchmc.org,4/28/2023
+12230175,1,56,4/14/2023,"no resid VSD
+laminar flow IVC to L-sided RV
+no baffle leak
+no neoPR, neoPV PG 9
+laminar flow in PAs
+m/mod MR
+mild neoAS PG 22, no neoAR
+no RVOTO
+L-sided RV mild dysfx
+R-sided LV low nml fx
+antegr flow in reimplanted CA",image-echo,"{""12230175_1_77"": ""Echo_TEE_2023-04-14.pdf""}",,{},Brianne.Reedy@cchmc.org,4/27/2023
+12230175,1,57,4/24/2023,worsened RV dysfx (moderate) while off ECMO,image-echo,"{""12230175_1_81"": ""Echo_TEE_2023-04-24.pdf""}",,{},Brianne.Reedy@cchmc.org,4/27/2023
+12230175,1,58,4/15/2023,"laminar flow IVC to RV
+no baffle leak
+sm resid L->R VSD
+mild PS PG 29, tr neoPR
+mild TR, mod MR
+mild neoAS PG 26, mild neoAR
+R-sided LV mild dysfx
+abnorm paradox vent septum movement at VSD patch
+L-sided RV mod dysfx
+RVSP 45+CVP",image-echo,"{""12230175_1_82"": ""Echo_TTE_2023-04-15.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,59,4/17/2023,"IVC systolic flow rev
+no baffle leak, systolic flow rev
+sm resid VSD, not well visualized
+mild TR, mod MR
+mild neoAR, mild neoAS
+L-sided RV mod dysfx
+RVSp 35+CVP
+R-sided LV mild dysfx
+abnorm paradox movement vent septum at VSD patch",image-echo,"{""12230175_1_83"": ""Echo_TTE_2023-04-17.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,83,4/19/2023,"Bronchoscopy: BAL
++ Serratia, Klebsiella",clinical,"{""12230175_1_106"": ""Report_Bronch_2023-04-19.pdf""}",Airway Scope_B,{},Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,84,4/21/2023,"thrombocytopenia - multiple areas gangrenous skin, especially to extremities",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,4/25/2023
+12231826,1,124,4/11/2023,transfer from UC,clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,125,4/19/2023,"P gradient 22 -> 26, concerning
+CT heart discrete isthmus narrowing",image-echo,"{""12231826_1_243"": ""Echo_TTE_2023-04-19.pdf"", ""12231826_1_244"": ""CT_heart_2023-04-20.pdf""}",,{},Brianne.Reedy@cchmc.org,5/5/2023
+12231826,1,126,4/29/2023,NULL,clinical,"{""12231826_1_173"": ""DC Summary_2023-04-29.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,127,4/24/2023,"CoA repair - extended end-to-end anastomosis
+L thoracotomy
+XC 16m",clinical,"{""12231826_1_174"": ""Pre Brief_2023-04-24.pdf"", ""12231826_1_175"": ""Report_CTS_2023-04-24.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,128,4/27/2023,"no resid CoA
+sm/mod L->R ASD
+Ao isthmus cPG 3
+no MS, tr MR
+biV nml fx",image-echo,"{""12231826_1_241"": ""Echo_TTE_2023-04-27.pdf""}",,{},Brianne.Reedy@cchmc.org,5/5/2023
+12231826,1,129,4/22/2023,PDA no longer seen,image-echo,"{""12231826_1_242"": ""Echo_TTE_2023-04-22.pdf""}",,{},Brianne.Reedy@cchmc.org,5/5/2023
+12231826,1,130,4/25/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/1/2023
+12321,1,423,6/2/2025,,clinical,{},IO,{},Brianne.Reedy@cchmc.org,6/4/2025
+12321,1,424,6/3/2025,,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,6/4/2025
+13467753,1,428,1/1/2025,NULL,clinical,{},IO,{},Bayard.Rucker@cchmc.org,7/11/2025
+13467753,1,429,1/2/2025,NULL,clinical,{},CTO,{},Bayard.Rucker@cchmc.org,7/11/2025
+14141414,1,447,6/28/2025,Taken out by Brianne Reedy.,clinical,{},CTO,{},Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,448,6/11/2025,Epi off.,clinical,"{""14141414_1_681"": ""FlightPlan complete wireframe.pdf""}",IO,{},Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,449,6/9/2025,"Fontan low velocity,
+phasic flow
+mod ASD
+tr TR
+RV low nml",image-echo,"{""14141414_1_682"": ""Flight Plan User Walkthrough_version 1.pdf""}",,{},Kelvin.Mantey@cchmc.org,8/5/2025
+150,1,437,1/18/2025,"milrinone d/c'd
+everything working well and as expected now",clinical,{},IO,{},Brianne.Reedy@cchmc.org,7/14/2025
+150,1,438,1/22/2025,NULL,clinical,{},CTO,{},Bayard.Rucker@cchmc.org,7/11/2025
+345,1,416,4/22/2025,test,clinical,{},Airway Scope_B,{},Bayard.Rucker@cchmc.org,4/18/2025
+551748,1,20,4/20/2023,"Ao root replacement (25mm On-X composite graft)
+AscAo replacement
+Pseudoaneurysm resection
+CPB 231m |  XC 182m",clinical,"{""551748_1_111"": ""Pre Brief_2023-04-20.pdf"", ""551748_1_112"": ""Report_CTS_2023-04-20.pdf"", ""551748_1_113"": ""Valentine Pseudoaneurysm[17].pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,4/28/2023
+551748,1,21,4/25/2023,NULL,clinical,"{""551748_1_26"": ""DC Summary_2023-04-25.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,4/25/2023
+551748,1,22,4/21/2023,milrinone dc,clinical,{},IO,{},Brianne.Reedy@cchmc.org,4/25/2023
+551748,1,23,4/23/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,4/25/2023
+551748,1,36,4/24/2023,"no mech AS, no mech AR
+washing jets seen within mech AV
+biV nml fx",image-echo,"{""551748_1_43"": ""Echo_TTE_2023-04-24.pdf""}",,{},Brianne.Reedy@cchmc.org,4/27/2023
+551748,1,37,4/20/2023,"no mech AS, no mech AR
+washing jets seen in AV
+no LVOTO
+LCA flow into LAD & circumflex
+RCA not seen
+biV nml fx",image-echo,"{""551748_1_42"": ""Echo_TEE_2023-04-20.pdf""}",,{},Brianne.Reedy@cchmc.org,4/25/2023
+60000001,1,297,5/24/2023,"test html added
+new document added
+a doc removed",clinical,"{""60000001_1_673"": ""fp_dev_johnson_attachment_3.pdf"", ""60000001_1_675"": ""fp_dev_johnson_attachment_2.pdf""}",CTO,{},ssutharzan@cchmc.org,6/24/2025
+60000001,1,298,5/12/2023,"Doc 1 and 2 added.
+Third doc added.",clinical,{},IO,{},ssutharzan@cchmc.org,6/11/2025
+60000001,1,326,5/8/2023,NULL,clinical,"{""60000001_1_439"": ""Report_CTS_2023-05-08.pdf"", ""60000001_1_440"": ""Pre Brief_2023-05-08.pdf"", ""60000",OPRP,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,327,5/17/2023,NULL,clinical,"{""60000001_1_442"": ""Report_Cath_2023-05-17.pdf"", ""60000001_1_443"": ""Report_Anes_2023-05-17.pdf""}",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,328,5/31/2023,discharge notes,clinical,"{""60000001_1_582"": ""DC Summary_2023-05-31.pdf""}",DCSM,{},Brianne.Reedy@cchmc.org,4/21/2025
+60000001,1,329,5/9/2023,"nml fx
+added 2 new docs",image-xr,"{""60000001_1_647"": ""fp_dev_johnson_attachment_3.pdf"", ""60000001_1_665"": ""fp_dev_johnson_attachment_1.pdf"", ""60000001_1_666"": ""fp_dev_johnson_attachment_2.pdf""}",,{},ssutharzan@cchmc.org,6/12/2025
+60000001,1,330,5/10/2023,"biV nml fx
+test",image-echo,{},,{},Bayard.Rucker@cchmc.org,5/29/2025
+60000001,1,331,5/12/2023,"biV nml fx
+test
+2 test docs added
+One more doc added",image-echo,"{""60000001_1_643"": ""fp_dev_johnson_attachment_1.pdf"", ""60000001_1_644"": ""fp_dev_johnson_attachment_2.pdf"", ""60000001_1_657"": ""fp_dev_johnson_attachment_3.pdf""}",,{},ssutharzan@cchmc.org,6/11/2025
+60000001,1,332,5/30/2023,"biV nml fx
+a test doc added",image-echo,{},,{},ssutharzan@cchmc.org,6/10/2025
+60000001,1,391,5/7/2023,"H&P
+history here
+One mor file added.
+",clinical,"{""60000001_1_672"": ""Echo_TEE_2023-05-08.pdf""}",OTHR,{},Bayard.Rucker@cchmc.org,6/20/2025
+60000001,1,392,5/9/2023,progress note,clinical,"{""60000001_1_548"": ""Progress Note_CICU_2023-05-09.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,425,5/23/2023,"X ray done
+new report added",image-xr,"{""60000001_1_658"": ""fp_dev_johnson_attachment_1.pdf"", ""60000001_1_667"": ""fp_dev_johnson_attachment_2.pdf""}",,{},ssutharzan@cchmc.org,6/12/2025
+60000001,1,426,5/25/2024,report added,clinical,"{""60000001_1_660"": ""fp_dev_johnson_attachment_1.pdf"", ""60000001_1_661"": ""fp_dev_johnson_attachment_2",IO,{},ssutharzan@cchmc.org,6/11/2025
+60000001,1,427,5/25/2023,"Report added
+One more report added",clinical,"{""60000001_1_662"": ""fp_dev_johnson_attachment_1.pdf"", ""60000001_1_663"": ""fp_dev_johnson_attachment_2.pdf"", ""60000001_1_664"": ""fp_dev_johnson_attachment_3.pdf""}",IO,{},ssutharzan@cchmc.org,6/11/2025
+671181,1,204,4/29/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/9/2023
+671181,1,205,5/1/2023,NULL,clinical,{},IO,{},Brianne.Reedy@cchmc.org,5/9/2023
+671181,1,206,5/2/2023,NULL,clinical,{},CTO,{},Brianne.Reedy@cchmc.org,5/9/2023
+671181,1,247,4/28/2023,"no resid ASD
+TV cMG 5, tr TR
+no RVOTO
+RV mod dysfx
+LV nml fx",image-echo,"{""671181_1_331"": ""Echo_TEE_2023-04-28.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+671181,1,248,4/30/2023,"TV cMG 4, mod TR
+RVp 35+CVP
+RV mod/sev dysfx
+LV mild dysfx
+LVEF 45- 50%",image-echo,"{""671181_1_338"": ""Echo_TTE_2023-04-30.pdf""}",,{},Brianne.Reedy@cchmc.org,5/12/2023
+671181,1,249,5/1/2023,"TV cMG 4, mod TR
+RVp 41+CVP
+RV mod/sev dysfx
+LV mild dysfx
+LVEF 45- 50%",image-echo,"{""671181_1_333"": ""Echo_TTE_2023-05-01.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+671181,1,250,5/4/2023,"TV cMG 3-4, mild TR
+RVp 25+CVP
+RV mod/sev dysfx
+LV nml fx",image-echo,"{""671181_1_334"": ""Echo_TTE_2023-05-04.pdf""}",,{},Brianne.Reedy@cchmc.org,5/9/2023
+671181,1,251,4/28/2023,"1. Cone repair for Ebstein's Anomaly w/ Sebening stitch
+2. Tricuspid annuloplasty w/ 25mm partial ring
+3. Primary PFO closure
+4. RA reduction
+CPB 223m | XC 121m",clinical,"{""671181_1_335"": ""Pre Brief_2023-04-28.pdf"", ""671181_1_336"": ""Report_CTS_2023-04-28.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,5/9/2023
+671181,1,252,4/30/2023,"RV mod/sev dysfx
+milrinone re-started",clinical,{},OTHR,{},Brianne.Reedy@cchmc.org,5/12/2023
+70000001,1,344,12/5/2022,"dilation of aortic arch stent, Ao arch restenting, LSCA balloon dilation, mechanical thrombectomy of extensive clot in the innominate vein to SVC",clinical,"{""70000001_1_470"": ""Report_Cath_2022-12-05.pdf"", ""70000001_1_471"": ""Report_CTS_2022-12-05.pdf""}",CATH,{},Brianne.Reedy@cchmc.org,12/9/2025
+70000001,1,345,12/9/2022,"1. Redo Sternotomy
+2. Berlin VAD placed (off CPB)
+    A. 30cc Pump
+    B. 9mm RA inflow cannula
+    C. 9mm Neo-aortic outflow cannula (Apical cannula into Hemashield).
+3. Wound vac Placement",clinical,"{""70000001_1_472"": ""Report_CTS_2022-12-09.pdf""}",OPRP,{},Brianne.Reedy@cchmc.org,12/9/2025
+70000001,1,346,4/1/2023,NULL,clinical,"{""70000001_1_473"": ""Pre Brief_2023-04-01.pdf"", ""70000001_1_474"": ""Report_CTS_2023-04-01.pdf"", ""70000",OPRP,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,347,4/7/2023,NULL,clinical,"{""70000001_1_476"": ""Report_Anes_2023-04-07.pdf"", ""70000001_1_477"": ""Report_Cath_2023-04-07.pdf""}",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,348,5/2/2023,NULL,clinical,"{""70000001_1_478"": ""Report_Cath_2023-05-02.pdf"", ""70000001_1_479"": ""Report_Anes_2023-05-02.pdf""}",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,349,5/8/2023,NULL,clinical,"{""70000001_1_480"": ""DC Summary_2023-05-08.pdf""}",DCSM,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,373,12/5/2022,NULL,image-echo,"{""70000001_1_519"": ""Echo_TTE_2022-12-05.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,374,12/9/2022,NULL,image-echo,"{""70000001_1_520"": ""Echo_TTE_2022-12-09.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,375,4/3/2023,NULL,image-echo,"{""70000001_1_521"": ""Echo_TTE_2023-04-03.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,376,5/7/2023,NULL,image-echo,"{""70000001_1_522"": ""Echo_TTE_2023-05-07.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,393,11/24/2022,H&P,clinical,"{""70000001_1_549"": ""H-P_2022-11-24.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,394,12/9/2022,progress note,clinical,"{""70000001_1_550"": ""Progress Note_CICU_2022-12-09.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,395,4/2/2023,progress note,clinical,"{""70000001_1_551"": ""Progress Note_CICU_2023-04-02.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+78,1,450,8/3/2025,milrinone off,clinical,{},IO,{},Brianne.Reedy@cchmc.org,8/7/2025
+78,1,451,8/7/2025,chest tube inadvertent removal,clinical,"{""78_1_685"": ""TEM in ATC.pdf""}",CTO,{},Brianne.Reedy@cchmc.org,8/7/2025
+78,1,454,8/1/2025,"TEE:
+great biV fx",image-echo,{},,{},Brianne.Reedy@cchmc.org,8/29/2025
+80000001,1,304,5/7/2023,NULL,clinical,{},CTO,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,350,8/26/2022,NULL,clinical,"{""80000001_1_483"": ""Report_Anes_2022-08-26.pdf"", ""80000001_1_484"": ""Report_Cath_2022-08-26.pdf""}",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,351,4/30/2023,NULL,clinical,"{""80000001_1_485"": ""Report_CTS_2023-04-30.pdf"", ""80000001_1_486"": ""Pre Brief_2023-04-30.pdf"", ""80000",OPRP,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,352,5/5/2023,NULL,clinical,"{""80000001_1_488"": ""Report_Cath_2023-05-05.pdf""}",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,353,6/5/2023,NULL,clinical,"{""80000001_1_489"": ""Report_Anes_2023-06-05.pdf"", ""80000001_1_490"": ""Report_Cath_2023-06-05.pdf""}",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,354,7/6/2023,NULL,clinical,"{""80000001_1_491"": ""Report_Anes_2023-07-06.pdf"", ""80000001_1_492"": ""Report_Cath_2023-07-06.pdf""}",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,355,7/21/2023,NULL,clinical,"{""80000001_1_493"": ""DC Summary_2023-07-21.pdf""}",DCSM,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,381,8/22/2022,NULL,image-echo,"{""80000001_1_528"": ""Echo_TTE_2022-08-22.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,382,5/1/2023,NULL,image-echo,"{""80000001_1_529"": ""Echo_TEE_2023-04-30.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,383,5/5/2023,NULL,image-echo,"{""80000001_1_530"": ""Echo_TTE_2023-05-05.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,384,7/18/2023,NULL,image-echo,"{""80000001_1_531"": ""Echo_TTE_2023-07-18.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,396,8/15/2022,H&P,clinical,"{""80000001_1_552"": ""H-P_2022-08-15.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,397,5/1/2023,progress note,clinical,"{""80000001_1_553"": ""Progress Note_CICU_2023-05-01.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,299,7/8/2023,test,clinical,{},CTP,{},Bayard.Rucker@cchmc.org,4/21/2025
+90000001,1,300,7/11/2023,NULL,clinical,{},CTO,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,301,7/12/2023,NULL,clinical,{},IO,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,333,6/22/2023,NULL,clinical,"{""90000001_1_450"": ""Report_Cath_2023-06-22.pdf"", ""90000001_1_451"": ""Report_Anes_2023-06-22.pdf"", ""90",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,334,7/7/2023,NULL,clinical,"{""90000001_1_453"": ""Pre Brief_2023-07-07.pdf"", ""90000001_1_454"": ""Report_CTS_2023-07-07.pdf"", ""90000",OPRP,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,335,7/17/2023,NULL,clinical,"{""90000001_1_456"": ""Report_Anes_2023-07-17.pdf""}",CATH,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,336,7/18/2023,NULL,clinical,"{""90000001_1_457"": ""DC Summary_2023-07-18.pdf""}",DCSM,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,377,6/22/2023,NULL,image-echo,"{""90000001_1_523"": ""Echo_TTE_2023-06-22.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,378,7/8/2023,,image-echo,"{""90000001_1_527"": ""Echo_TEE_2023-07-07.pdf""}",,{},Abbey.Fugazzi@cchmc.org,3/6/2024
+90000001,1,379,6/22/2023,NULL,image-echo,"{""90000001_1_525"": ""Echo_TEE_2023-06-22.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,380,7/17/2023,NULL,image-echo,"{""90000001_1_526"": ""Echo_TTE_2023-07-17.pdf""}",,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,398,6/18/2023,H&P,clinical,"{""90000001_1_554"": ""H-P_2023-06-18.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,399,7/8/2023,progress note,clinical,"{""90000001_1_555"": ""Progress Note_CICU_2023-07-08.pdf""}",OTHR,{},Abbey.Fugazzi@cchmc.org,2/13/2024

@@ -1,0 +1,17 @@
+apiVersion: flightplan.io/v1
+kind: SpecialtyPlugin
+metadata:
+  name: cardiac
+  version: 0.1.0
+  displayName: "Cardiac Surgery"
+  description: "Reference cardiac plugin (skeleton)"
+
+spec:
+  ui:
+    patient_header:
+      primary_fields:
+        - name
+        - mrn
+        - age
+    timeline:
+      event_categories: []

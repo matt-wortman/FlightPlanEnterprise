@@ -1,0 +1,794 @@
+﻿MRN,ADM,LocationStepID,LocationRiskID,StartDatetime,Risk,Notes,Extra,Username,ActivityDate
+1,1,804,1087,5/31/2023,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+1,1,808,1091,6/3/2023,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+1,1,1060,1403,5/31/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+1,1,1061,1404,5/31/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+1,1,1062,1405,6/1/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+1,1,1062,1406,6/2/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+2,1,812,1095,6/1/2023,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+2,1,816,1099,6/3/2023,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+2,1,817,1100,6/1/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+2,1,818,1101,6/1/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+2,1,819,1102,6/2/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+3,1,820,1103,5/8/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+3,1,823,1106,5/8/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+3,1,824,1107,5/8/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+3,1,826,1109,5/9/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+3,1,827,1110,5/11/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,842,1127,6/8/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,846,1132,7/3/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+4,1,1012,1309,10/10/2023,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1017,1315,10/21/2023,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1018,1316,10/10/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1019,1317,10/10/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1019,1318,10/11/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1023,1322,1/12/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1028,1327,1/19/2024,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1028,1328,1/20/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1029,1329,1/19/2024,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1031,1331,1/23/2024,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1037,1339,2/7/2024,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1042,1344,5/16/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1043,1345,5/22/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1044,1346,5/26/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1051,1371,6/8/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1051,1372,6/10/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1051,1373,6/11/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1051,1374,6/13/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1052,1375,6/15/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1052,1376,6/19/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1052,1377,6/23/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1052,1378,6/26/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1052,1379,6/30/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1053,1380,10/15/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1053,1381,10/18/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1054,1382,1/12/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1054,1383,1/15/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1056,1388,1/20/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1056,1389,1/21/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1056,1390,1/23/2024,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1056,1391,1/23/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1056,1392,1/25/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1057,1393,1/27/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1057,1394,1/30/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1057,1395,2/4/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1057,1396,2/6/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1058,1397,2/7/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1058,1398,2/9/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1058,1399,2/11/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1058,1400,2/13/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,2/13/2024
+4,1,1174,1544,2/15/2024,Discharge,NULL,NULL,Bayard.Rucker@cchmc.org,7/31/2025
+4,1,1175,1545,2/28/2024,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,7/31/2025
+4,1,1191,1570,5/17/2023,Extubated / NC,NULL,NULL,Bayard.Rucker@cchmc.org,8/4/2025
+4,1,1197,1578,5/26/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1197,1579,5/23/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1197,1580,5/24/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1197,1581,5/25/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1197,1582,5/29/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1197,1583,5/31/2023,Extubated / NC,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1197,1584,6/3/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1197,1585,6/6/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1199,1590,5/22/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1199,1591,5/23/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1199,1592,5/24/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+4,1,1199,1593,5/25/2023,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+5,1,848,1134,5/11/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,850,1136,5/11/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,856,1140,5/12/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,860,1144,5/15/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,860,1145,5/17/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,862,1147,5/21/2023,Extubated / NC,None,None,Abbey.Fugazzi@cchmc.org,12/9/2025
+5,1,863,1148,5/24/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+5,1,1327,1777,5/12/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+5,1,1328,1778,5/15/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+11001,1,1168,1537,1/1/2025,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,7/28/2025
+11001,1,1170,1539,1/15/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,7/28/2025
+11001,1,1171,1540,1/29/2025,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,7/28/2025
+11001,1,1172,1541,1/1/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,7/28/2025
+11001,1,1172,1542,1/4/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,7/28/2025
+11001,1,1173,1543,1/1/2025,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,7/28/2025
+1214163,1,490,634,3/31/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,491,635,4/3/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,492,636,4/3/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,493,637,4/26/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,496,640,4/26/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,496,641,4/30/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,496,642,5/2/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,496,643,5/4/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,496,644,5/6/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+1214163,1,496,645,4/28/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+10000001,1,937,1229,4/26/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,939,1231,5/1/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,941,1233,5/3/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,943,1235,7/20/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,945,1237,7/20/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,947,1239,7/22/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,949,1241,7/23/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,949,1242,7/23/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,951,1244,7/28/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,953,1246,8/1/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,955,1248,8/1/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000001,1,956,1249,8/8/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+10000011,1,1300,1725,4/26/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1312,1737,8/8/2025,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1314,1739,8/1/2025,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1315,1740,5/1/2025,Extubated / HFNC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1319,1747,5/3/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1319,1748,6/1/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1319,1749,7/1/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1319,1750,5/15/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1319,1751,6/15/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1319,1752,7/15/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1323,1767,7/23/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1323,1768,7/23/2025,Extubated / HFNC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1323,1769,7/24/2025,Extubated / HFNC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1323,1770,7/26/2025,Extubated / HFNC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1324,1771,7/28/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1324,1772,7/30/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1325,1773,8/1/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1325,1774,8/3/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1325,1775,8/5/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+10000011,1,1326,1776,7/22/2025,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+110575555,1,196,220,4/17/2023,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110575555,1,201,225,4/20/2023,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110575555,1,202,226,4/17/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110575555,1,202,227,4/18/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110575555,1,202,228,4/19/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110575555,1,206,232,4/17/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110585976,1,410,485,12/19/2022,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+110585976,1,416,491,5/1/2023,Discharge,,{},Abbey.Fugazzi@cchmc.org,5/4/2023
+110585976,1,417,492,4/19/2023,Extubated / NC,,{},Abbey.Fugazzi@cchmc.org,5/4/2023
+110585976,1,418,493,10/25/2022,Extubated / NC,,{},Abbey.Fugazzi@cchmc.org,5/4/2023
+110585976,1,428,503,10/27/2022,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,428,504,10/29/2022,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,429,505,12/19/2022,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,429,506,12/19/2022,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,432,512,4/6/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,432,513,4/9/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,469,596,10/27/2022,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,470,597,4/6/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,473,600,1/4/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,473,601,1/6/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,473,602,1/7/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,473,603,3/27/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,473,604,1/18/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,473,605,3/12/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110585976,1,474,606,1/4/2023,Procedure,,{},Brianne.Reedy@cchmc.org,5/4/2023
+110604181,1,403,478,4/27/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+110604181,1,423,498,4/26/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+110604181,1,434,515,4/24/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110604181,1,434,516,4/25/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110604181,1,439,533,4/21/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110604181,1,439,534,4/22/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110604181,1,439,535,4/23/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110604181,1,468,595,4/24/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,437,521,2/14/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,437,522,3/1/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,437,523,3/15/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,437,524,4/1/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,437,525,4/15/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,463,583,4/27/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,463,584,4/28/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,463,585,4/29/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,463,586,4/30/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,463,587,5/1/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,463,588,5/2/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,463,589,5/3/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,463,590,5/4/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110614188,1,465,592,4/27/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110628459,1,132,132,4/17/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110628459,1,136,136,4/19/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110628459,1,136,137,4/20/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110628459,1,137,138,4/22/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110628459,1,137,139,4/24/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110628459,1,195,219,4/19/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+110628711,1,399,474,4/29/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+110628711,1,421,496,4/28/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+110628711,1,427,502,4/26/2023,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110628711,1,436,519,4/26/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110628711,1,436,520,4/27/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+110628711,1,475,607,4/26/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+11078640,1,1,1,4/11/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+11078640,1,5,5,4/14/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+11078640,1,9,9,4/13/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+11078640,1,162,174,4/11/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11078640,1,163,175,4/11/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11078640,1,163,176,4/12/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11112222,1,1215,1611,8/7/2025,ACCU,None,None,Kelvin.Mantey@cchmc.org,9/16/2025
+11112222,1,1222,1619,8/15/2025,Discharge,None,None,Kelvin.Mantey@cchmc.org,9/16/2025
+11112222,1,1280,1697,8/12/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+11112222,1,1280,1698,8/13/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+11112222,1,1280,1699,8/14/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+11112222,1,1282,1701,8/7/2025,Procedure,,{},Brianne.Reedy@cchmc.org,9/16/2025
+11112222,1,1283,1702,8/7/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+11112222,1,1283,1703,8/9/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+11112222,1,1283,1704,8/10/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+11112222,1,1283,1705,8/11/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+11112222,1,1283,1706,8/8/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+111222333,1,1268,1674,1/28/2025,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,8/29/2025
+111222333,1,1269,1675,1/1/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,8/29/2025
+111222333,1,1269,1676,1/1/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,8/29/2025
+111222333,1,1271,1679,1/6/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,8/29/2025
+111222333,1,1271,1680,1/11/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,8/29/2025
+111222333,1,1271,1681,1/16/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,8/29/2025
+111222333,1,1272,1682,1/20/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,8/29/2025
+111222333,1,1272,1683,1/24/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,8/29/2025
+111222333,1,1273,1684,1/6/2025,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,8/29/2025
+11223344,1,1176,1546,8/5/2025,ACCU,NULL,NULL,Kelvin.Mantey@cchmc.org,8/2/2025
+11223344,1,1180,1550,8/11/2025,Discharge,NULL,NULL,Kelvin.Mantey@cchmc.org,8/2/2025
+11223344,1,1203,1598,8/8/2025,Intubated / Conv Vent,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+11223344,1,1203,1599,8/10/2025,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+11223344,1,1205,1601,8/6/2025,Extubated / NC,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+11223344,1,1209,1605,8/10/2025,Extubated / NC,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+11223344,1,1212,1608,8/6/2025,Extubated / NC,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+11223344,1,1213,1609,8/7/2025,Procedure,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+11459458,1,750,995,1/12/2024,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+11459458,1,751,996,1/12/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+11459458,1,754,999,1/15/2024,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+11459458,1,755,1000,1/12/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+11459458,1,786,1033,1/13/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11459458,1,786,1034,1/14/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11522821,1,499,648,5/1/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11522821,1,503,652,5/6/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11522821,1,505,656,5/1/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11522821,1,505,657,5/2/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11522821,1,505,658,5/3/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11522821,1,505,659,5/4/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11522821,1,507,661,5/5/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11522821,1,655,876,5/1/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+11710274,1,766,1013,12/28/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+11710274,1,767,1014,12/28/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+11710274,1,770,1017,1/14/2024,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+11710274,1,794,1043,12/28/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11710274,1,794,1044,12/29/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11710274,1,794,1045,12/30/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11710274,1,795,1047,1/2/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11710274,1,795,1048,1/4/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11710274,1,795,1049,1/6/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11710274,1,795,1050,1/8/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11710274,1,795,1051,1/10/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11710274,1,795,1052,1/12/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+11899650,1,53,53,4/17/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+11899650,1,59,59,4/23/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+11899650,1,63,63,4/19/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+11899650,1,156,168,4/17/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11899650,1,157,169,4/20/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11899650,1,169,185,4/17/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11899650,1,170,186,4/21/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11899650,1,170,187,4/22/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11917517,1,519,673,5/2/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11917517,1,519,674,5/3/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11917517,1,520,675,5/8/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11917517,1,520,676,5/9/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11917517,1,521,677,4/19/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11917517,1,521,678,4/20/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11917517,1,522,679,4/25/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11917517,1,630,825,5/9/2023,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+11917517,1,649,870,4/25/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+11917517,1,650,871,5/2/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+11954791,1,523,680,5/2/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11954791,1,527,684,5/5/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11954791,1,529,686,5/2/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11954791,1,529,687,5/3/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11954791,1,530,688,5/4/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11954791,1,658,879,5/2/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+11980775,1,531,689,5/3/2023,ACCU,None,None,Abbey.Fugazzi@cchmc.org,5/12/2023
+11980775,1,535,693,5/7/2023,Discharge,None,None,Abbey.Fugazzi@cchmc.org,5/12/2023
+11980775,1,537,695,5/3/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11980775,1,537,696,5/4/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11980775,1,537,697,5/5/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11980775,1,538,698,5/6/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+11980775,1,652,873,5/3/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+11994901,1,66,66,4/18/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+11994901,1,151,161,4/18/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,151,162,4/19/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,178,195,4/20/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,178,196,4/23/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,193,216,4/24/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,193,217,4/27/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,194,218,4/26/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+11994901,1,238,271,4/18/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12084978,1,552,720,4/29/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12084978,1,556,724,5/7/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12084978,1,557,725,4/30/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12084978,1,557,726,5/1/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12084978,1,557,727,5/2/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12084978,1,557,728,5/3/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12084978,1,559,730,5/4/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12084978,1,560,731,5/5/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12084978,1,654,875,5/4/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12107767,1,603,794,8/15/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,604,795,8/19/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,605,796,8/21/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,607,798,8/26/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,608,799,9/26/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,609,800,10/16/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,610,801,10/21/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,611,802,12/21/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,612,803,1/19/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,613,804,4/10/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,614,805,4/12/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,618,810,5/1/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,618,811,5/2/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,618,812,5/3/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12107767,1,631,826,5/5/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/9/2023
+12107767,1,631,827,5/9/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/9/2023
+12107767,1,631,828,5/10/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/9/2023
+12107767,1,631,829,5/11/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/9/2023
+12107767,1,664,885,4/30/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12107767,1,665,886,8/26/2022,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12107767,1,666,887,5/5/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+121212,1,1290,1714,11/5/2025,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,11/4/2025
+121212,1,1291,1715,11/5/2025,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,11/4/2025
+121212,1,1293,1717,11/7/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,11/4/2025
+121212,1,1294,1718,11/9/2025,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,11/4/2025
+121212,1,1295,1719,11/5/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,11/4/2025
+121212,1,1295,1720,11/6/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,11/4/2025
+12146147,1,735,978,11/27/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12146147,1,739,982,1/11/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12146147,1,742,985,1/10/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12146147,1,800,1070,11/27/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,800,1071,12/1/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,800,1072,12/10/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,800,1073,12/20/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,800,1074,12/30/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,801,1075,1/11/2024,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,801,1076,1/14/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,801,1077,1/12/2024,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,801,1078,1/13/2024,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,801,1079,1/15/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,802,1080,1/16/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12146147,1,802,1081,1/17/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12149867,1,299,360,4/27/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12149867,1,453,559,4/27/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,453,560,4/28/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,453,561,4/29/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,453,562,4/30/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,453,563,5/1/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,453,564,5/2/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,454,565,5/3/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,454,566,5/4/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,458,572,4/27/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12149867,1,482,621,5/4/2023,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12165986,1,713,947,1/10/2024,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12165986,1,714,948,1/10/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12165986,1,716,950,1/13/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12165986,1,717,951,1/14/2024,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12165986,1,719,953,1/10/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12165986,1,719,954,1/11/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12165986,1,719,955,1/12/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12174253,1,100,100,12/9/2022,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12174253,1,120,120,1/5/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12174253,1,121,121,1/28/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12174253,1,125,125,4/3/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12174253,1,168,184,4/25/2023,Discharge,None,None,Brianne.Reedy@cchmc.org,5/5/2023
+12174253,1,239,272,11/23/2022,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,240,273,1/27/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,242,276,11/9/2022,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,242,277,11/10/2022,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,243,278,11/9/2022,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,246,285,3/23/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,247,286,1/31/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,248,287,4/3/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,249,288,4/22/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,255,298,4/18/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,255,299,4/19/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,255,300,4/22/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,255,301,4/11/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,255,302,4/6/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,257,305,3/23/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,257,306,3/30/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,257,307,3/28/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,257,308,3/26/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,257,309,3/24/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,258,310,1/31/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,258,311,3/20/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,258,312,3/13/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,258,313,3/9/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,258,314,3/3/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,258,315,2/27/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,258,316,2/20/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,258,317,2/14/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,258,318,2/5/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,258,319,2/1/2023,,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,350,411,11/10/2022,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,351,412,11/10/2022,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,352,413,11/23/2022,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,352,414,12/2/2022,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,352,415,12/6/2022,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,353,416,1/5/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,483,622,12/9/2022,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,483,623,12/27/2022,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,483,624,12/29/2022,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12174253,1,483,625,12/16/2022,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12193042,1,745,990,1/10/2024,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12193042,1,746,991,1/10/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12193042,1,747,992,1/10/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12193042,1,748,993,1/11/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12193042,1,749,994,1/12/2024,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12196122,1,570,746,4/21/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12196122,1,575,756,4/21/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12196122,1,575,757,4/22/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12196122,1,575,758,4/23/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12196122,1,577,760,4/24/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12196122,1,577,761,4/25/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12196122,1,577,762,4/26/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12196122,1,578,763,4/27/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12196122,1,660,881,4/21/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12196198,1,355,418,2/16/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12196198,1,363,426,3/31/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12196198,1,375,441,3/13/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,376,442,3/28/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,376,443,3/29/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,377,444,4/14/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,477,609,4/14/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,479,613,3/28/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,484,626,4/17/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,484,627,4/25/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196198,1,484,628,5/5/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,346,407,4/17/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12196315,1,388,459,1/2/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,389,460,1/24/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,389,461,1/24/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,389,462,2/5/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,389,463,2/19/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,390,464,3/3/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,455,567,3/10/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,456,568,1/24/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,457,569,3/22/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,457,570,4/1/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,457,571,4/10/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,478,610,3/10/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,478,611,3/13/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12196315,1,478,612,3/19/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12201745,1,325,386,4/19/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12201745,1,382,451,12/20/2022,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12201745,1,383,452,12/20/2022,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12201745,1,384,453,1/6/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12201745,1,384,454,1/10/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12201745,1,385,455,2/10/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12201745,1,385,456,2/11/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12201745,1,386,457,3/24/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12201745,1,387,458,2/23/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12201745,1,643,862,1/6/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,644,863,2/10/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,645,864,2/23/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,646,865,3/24/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,648,868,4/8/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12201745,1,648,869,4/13/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12205948,1,263,324,4/18/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12205948,1,497,646,5/5/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12205948,1,498,647,4/28/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12205948,1,635,840,4/24/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12205948,1,635,841,4/25/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12205948,1,659,880,4/24/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12206095,1,279,340,4/25/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12206095,1,283,344,4/29/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12206095,1,443,542,4/25/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12206095,1,444,543,4/25/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12206095,1,444,544,4/26/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12206095,1,445,545,4/27/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12206095,1,445,546,4/28/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12209987,1,565,736,4/26/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12209987,1,566,737,4/13/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12209987,1,568,739,4/19/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12209987,1,568,740,4/20/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12209987,1,568,741,4/21/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12209987,1,569,742,4/22/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12209987,1,569,743,4/23/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12209987,1,569,744,4/24/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12209987,1,569,745,4/25/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+12209987,1,662,883,4/19/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+12214163,1,289,350,3/31/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12214163,1,291,352,4/3/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12214163,1,293,354,4/3/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12214163,1,481,615,4/26/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12214163,1,481,616,4/28/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12214163,1,481,617,4/30/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12214163,1,481,618,5/2/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12214163,1,481,619,5/4/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12214163,1,481,620,5/6/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12214163,1,494,638,4/26/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12218921,1,46,46,4/19/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12218921,1,48,48,4/6/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12218921,1,139,141,4/7/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,143,146,4/7/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,143,147,4/7/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,144,148,4/9/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,144,149,4/14/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,144,150,4/16/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,144,151,4/18/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,187,207,4/6/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,189,210,3/16/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12218921,1,189,211,4/5/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,145,152,4/12/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,145,153,4/15/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,146,154,4/18/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,146,155,4/21/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,149,159,4/18/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,207,233,4/24/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,207,234,4/28/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12229589,1,207,235,4/25/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,28,28,4/8/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12230175,1,30,30,4/14/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12230175,1,35,35,4/21/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12230175,1,37,37,4/24/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12230175,1,172,189,4/14/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,176,193,4/24/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,177,194,4/21/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,183,203,4/26/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,4/25/2023
+12230175,1,190,212,4/15/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,191,213,4/26/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,235,266,4/28/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,236,267,4/16/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,236,268,4/17/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,236,269,4/19/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+12230175,1,620,815,4/28/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/9/2023
+12230175,1,623,818,5/4/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/9/2023
+12230175,1,624,819,5/6/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/9/2023
+12230175,1,626,821,4/28/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/9/2023
+12230175,1,627,822,5/4/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/9/2023
+12231826,1,272,333,4/29/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/1/2023
+12231826,1,379,447,4/11/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,380,448,4/24/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,380,449,4/25/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,441,538,4/24/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,442,539,4/17/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,442,540,4/19/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,442,541,4/22/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,446,547,4/26/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12231826,1,446,548,4/28/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,5/1/2023
+12235392,1,668,891,9/4/2023,Extubated / NC,,{},Abbey.Fugazzi@cchmc.org,1/17/2024
+12235392,1,671,894,9/14/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,672,895,9/14/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,673,896,9/29/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,675,898,11/1/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,677,900,11/17/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,678,901,12/4/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,680,903,12/6/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,681,904,12/28/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,682,905,1/8/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,683,906,1/8/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,684,907,1/12/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,687,911,9/5/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,688,912,9/29/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,688,913,10/15/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,689,914,11/1/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,689,915,1/2/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,690,916,12/4/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,690,917,12/4/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,707,938,1/12/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,707,939,1/17/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12235392,1,775,1022,9/5/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12242716,1,756,1001,1/12/2024,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12242716,1,757,1002,1/12/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12242716,1,758,1003,1/12/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12242716,1,759,1004,1/13/2024,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,691,918,12/29/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,694,921,12/31/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,695,922,1/1/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,696,923,1/5/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,697,924,1/5/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,698,925,1/8/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,699,926,1/8/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,700,927,1/9/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,703,930,12/29/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,703,931,12/30/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,705,934,1/9/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,705,935,1/17/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12251667,1,774,1021,12/29/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12282938,1,760,1005,12/14/2023,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12282938,1,761,1006,12/14/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12282938,1,764,1009,1/5/2024,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12282938,1,797,1054,12/14/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,797,1055,12/15/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,797,1056,12/16/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,797,1057,12/18/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,797,1058,12/20/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,797,1059,12/22/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,797,1060,12/23/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,799,1065,12/25/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,799,1066,12/27/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,799,1067,1/1/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,799,1068,1/3/2024,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12282938,1,799,1069,12/31/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12307340,1,772,1019,9/13/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12321,1,1132,1482,6/1/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,6/4/2025
+12321,1,1132,1483,6/1/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,6/4/2025
+12321,1,1134,1485,6/4/2025,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,6/4/2025
+12321,1,1135,1486,6/2/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,6/4/2025
+12321,1,1135,1487,6/3/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,6/4/2025
+12321,1,1138,1488,6/1/2025,ACCU,,{},Brianne.Reedy@cchmc.org,6/4/2025
+12321,1,1193,1572,6/1/2025,Procedure,NULL,NULL,Bayard.Rucker@cchmc.org,8/4/2025
+12329156,1,720,956,1/11/2024,ACCU,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,721,957,1/11/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,723,959,1/12/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,724,960,1/12/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,725,961,1/15/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,727,963,1/15/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,727,964,1/16/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,727,965,1/17/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,728,966,1/15/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,728,967,1/16/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,728,968,1/17/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12329156,1,729,969,1/11/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,777,1024,1/3/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,778,1025,1/3/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,779,1026,1/8/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,780,1027,1/8/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,782,1029,1/10/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,783,1030,1/12/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,784,1031,1/12/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,785,1032,1/12/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,787,1035,1/12/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,788,1036,1/13/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,789,1037,1/13/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,790,1038,1/15/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,792,1040,1/15/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,792,1041,1/16/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,792,1042,1/17/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,793,1046,12/29/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12330448,1,796,1053,1/9/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12331651,1,731,971,1/11/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12331651,1,733,973,1/11/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12331651,1,733,974,1/15/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12331651,1,733,975,1/16/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12331651,1,733,976,1/17/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12331651,1,803,1084,12/28/2023,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12331651,1,803,1085,1/6/2024,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12331651,1,803,1086,1/9/2024,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,1/5/2024
+12332902,1,709,941,1/8/2024,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12332902,1,711,943,12/30/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12332902,1,712,944,1/8/2024,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12332902,1,712,945,1/11/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+12332902,1,712,946,1/17/2024,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,1/5/2024
+1244556,1,1284,1707,1/3/2025,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+1244556,1,1285,1708,1/3/2025,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+1244556,1,1287,1710,1/7/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+1244556,1,1288,1711,1/9/2025,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+1244556,1,1289,1712,1/3/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+1244556,1,1289,1713,1/5/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,9/4/2025
+13467753,1,1139,1489,1/1/2025,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+13467753,1,1142,1492,1/1/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+13467753,1,1142,1493,1/2/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+13467753,1,1143,1494,1/3/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+13467753,1,1144,1495,1/4/2025,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+13467753,1,1145,1496,1/1/2025,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+13467753,1,1246,1649,1/10/2025,Procedure,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+13467753,1,1248,1651,1/10/2025,Procedure,NULL,NULL,Bayard.Rucker@cchmc.org,8/5/2025
+14141414,1,1224,1622,6/9/2025,ACCU,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1229,1627,6/12/2025,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1232,1630,7/5/2025,Discharge,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1233,1631,6/9/2025,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1234,1632,6/10/2025,Intubated / Conv Vent,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1234,1633,6/10/2025,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1235,1634,6/13/2025,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1235,1635,6/15/2025,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1235,1636,6/20/2025,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1235,1637,7/1/2025,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1235,1638,6/25/2025,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1241,1644,6/9/2025,Procedure,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1243,1646,6/10/2025,Procedure,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+14141414,1,1244,1647,6/13/2025,Procedure,NULL,NULL,Kelvin.Mantey@cchmc.org,8/5/2025
+150,1,1157,1513,1/15/2025,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+150,1,1162,1522,1/15/2025,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+150,1,1164,1524,1/20/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+150,1,1164,1525,1/21/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+150,1,1164,1526,1/22/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+150,1,1164,1527,1/23/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+150,1,1164,1528,1/24/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+150,1,1165,1529,1/25/2025,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+150,1,1166,1530,1/15/2025,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,7/24/2025
+150,1,1166,1531,1/16/2025,Intubated / Conv Vent,NULL,NULL,Bayard.Rucker@cchmc.org,7/24/2025
+150,1,1166,1532,1/17/2025,Extubated / NC,NULL,NULL,Bayard.Rucker@cchmc.org,7/24/2025
+150,1,1166,1533,1/18/2025,Extubated / NC,NULL,NULL,Bayard.Rucker@cchmc.org,7/24/2025
+150,1,1166,1534,1/19/2025,Extubated / NC,NULL,NULL,Bayard.Rucker@cchmc.org,7/24/2025
+150,1,1166,1535,7/25/2025,Extubated / HFNC,NULL,NULL,Bayard.Rucker@cchmc.org,7/24/2025
+189,1,1086,1434,6/10/2024,Extubated / NC,NULL,NULL,ssutharzan@cchmc.org,8/21/2024
+189,1,1087,1435,6/15/2024,Discharge,NULL,NULL,ssutharzan@cchmc.org,8/21/2024
+189,1,1088,1436,6/5/2024,ACCU,NULL,NULL,ssutharzan@cchmc.org,8/21/2024
+189,1,1090,1438,6/5/2024,Extubated / NC,NULL,NULL,ssutharzan@cchmc.org,8/21/2024
+189,1,1090,1439,6/5/2024,Intubated / Conv Vent,NULL,NULL,ssutharzan@cchmc.org,8/21/2024
+189,1,1090,1440,6/7/2024,Extubated / NC,NULL,NULL,ssutharzan@cchmc.org,8/21/2024
+189,1,1156,1512,6/5/2024,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+551748,1,83,83,4/20/2023,ACCU,None,None,Abbey.Fugazzi@cchmc.org,4/27/2023
+551748,1,155,167,4/25/2023,Discharge,,{},Brianne.Reedy@cchmc.org,4/27/2023
+551748,1,165,178,4/20/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+551748,1,165,179,4/21/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+551748,1,166,180,4/22/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+551748,1,166,181,4/23/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+551748,1,166,182,4/24/2023,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+551748,1,167,183,4/20/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,4/25/2023
+60000001,1,865,1150,5/7/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,867,1152,5/8/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,869,1154,5/9/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,869,1155,5/11/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,871,1157,5/17/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,873,1159,5/17/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,873,1160,5/17/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,875,1162,5/21/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+60000001,1,876,1163,5/31/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+671181,1,305,366,4/28/2023,ACCU,None,None,Abbey.Fugazzi@cchmc.org,5/12/2023
+671181,1,579,764,4/28/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+671181,1,579,765,4/29/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+671181,1,579,766,4/30/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+671181,1,579,767,5/1/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+671181,1,579,768,5/2/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+671181,1,580,769,5/3/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+671181,1,580,770,5/4/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+671181,1,581,771,5/5/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,5/8/2023
+671181,1,656,877,4/28/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,5/9/2023
+70000001,1,878,1165,11/24/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,880,1167,11/24/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,882,1169,11/28/2022,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,884,1171,11/28/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,888,1175,12/5/2022,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,892,1179,12/9/2022,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,892,1180,12/16/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,894,1182,12/27/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,896,1184,1/17/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,898,1186,1/17/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,902,1190,4/2/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,902,1191,4/2/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,904,1193,4/7/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,906,1195,4/7/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,908,1197,4/8/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,910,1199,4/18/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,912,1201,4/20/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,914,1203,5/2/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,916,1205,5/2/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,917,1206,5/8/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+70000001,1,1296,1721,12/5/2022,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+70000001,1,1298,1723,12/9/2022,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+70000001,1,1299,1724,4/1/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,12/8/2025
+78,1,1253,1656,8/1/2025,ACCU,NULL,NULL,Brianne.Reedy@cchmc.org,8/7/2025
+78,1,1256,1659,8/7/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,8/7/2025
+78,1,1258,1661,8/9/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,8/7/2025
+78,1,1259,1662,8/12/2025,Discharge,NULL,NULL,Brianne.Reedy@cchmc.org,8/7/2025
+78,1,1261,1666,8/1/2025,Intubated / Conv Vent,NULL,NULL,Brianne.Reedy@cchmc.org,8/7/2025
+78,1,1261,1667,8/3/2025,Extubated / NC,NULL,NULL,Brianne.Reedy@cchmc.org,8/7/2025
+78,1,1262,1668,8/1/2025,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,8/7/2025
+78,1,1263,1669,8/9/2025,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,8/7/2025
+80000001,1,960,1253,8/19/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,962,1255,8/21/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,966,1259,8/26/2022,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,966,1260,8/26/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,968,1262,9/26/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,970,1264,10/16/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,972,1266,10/21/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,976,1270,12/21/2022,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,978,1272,1/19/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,980,1274,1/19/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,982,1276,4/10/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,984,1278,4/12/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,988,1282,5/1/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,988,1283,5/3/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,991,1286,5/5/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,992,1287,5/5/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,997,1292,6/5/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,998,1293,6/5/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,1002,1297,6/13/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,1003,1298,6/13/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,1005,1300,6/13/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,1005,1301,6/18/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,1005,1302,7/6/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,1008,1305,7/6/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,1009,1306,7/6/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,1011,1308,7/17/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,1063,1407,7/21/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+80000001,1,1153,1509,8/26/2022,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+80000001,1,1154,1510,12/21/2022,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+80000001,1,1155,1511,4/30/2023,Procedure,NULL,NULL,Brianne.Reedy@cchmc.org,7/11/2025
+80000001,1,1181,1551,5/12/2023,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/4/2025
+80000001,1,1182,1552,8/15/2022,Extubated / NC,NULL,NULL,Kelvin.Mantey@cchmc.org,8/4/2025
+90000001,1,919,1208,6/18/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,921,1210,6/22/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,923,1212,6/22/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,923,1213,6/24/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,925,1215,7/7/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,928,1219,7/8/2023,Intubated / Conv Vent,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,928,1220,7/8/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,930,1222,7/13/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,932,1224,7/17/2023,Procedure,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,934,1226,7/17/2023,Extubated / NC,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
+90000001,1,935,1227,7/18/2023,Discharge,NULL,NULL,Abbey.Fugazzi@cchmc.org,2/13/2024
