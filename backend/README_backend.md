@@ -53,6 +53,7 @@ uvicorn app.main:app --reload
 **API Server:** http://localhost:8000
 **API Documentation:** http://localhost:8000/docs
 **Health Check:** http://localhost:8000/health
+**Timeline Preview UI:** http://localhost:8000/ui/timeline
 
 ### Seed Synthetic Data (Optional)
 

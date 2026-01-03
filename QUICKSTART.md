@@ -89,6 +89,7 @@ Open your browser and visit:
 
 - **API Docs**: http://localhost:8000/docs
 - **Health Check**: http://localhost:8000/health
+- **Timeline Preview UI**: http://localhost:8000/ui/timeline
 
 You should see the interactive API documentation (Swagger UI).
 
