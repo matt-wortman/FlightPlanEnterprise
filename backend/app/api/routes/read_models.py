@@ -13,6 +13,7 @@ from app.models.read_models import (
     FlightPlanReadModel,
     TimelineEventModel,
     TrajectoryPointModel,
+    AttachmentReadModel,
 )
 
 router = APIRouter(prefix="/api/v1", tags=["read-models"])
@@ -112,6 +113,22 @@ async def get_trajectory(
         .where(TrajectoryPointModel.tenant_id == tenant_id)
         .where(TrajectoryPointModel.admission_id == admission_id)
         .order_by(TrajectoryPointModel.effective_at)
+    )
+    rows = result.scalars().all()
+    return {"items": [r.data for r in rows]}
+
+
+@router.get("/admissions/{admission_id}/attachments")
+async def get_attachments(
+    admission_id: UUID,
+    session: AsyncSession = Depends(get_session),
+    tenant_id: UUID = Depends(get_tenant_id),
+) -> dict[str, Any]:
+    result = await session.execute(
+        select(AttachmentReadModel)
+        .where(AttachmentReadModel.tenant_id == tenant_id)
+        .where(AttachmentReadModel.admission_id == admission_id)
+        .order_by(AttachmentReadModel.occurred_at)
     )
     rows = result.scalars().all()
     return {"items": [r.data for r in rows]}

@@ -215,6 +215,92 @@ All events must:
 
 ---
 
+### clinical_event.recorded (risk_status subtype)
+
+**Stream:** Admission  
+**Purpose:** Records risk status changes over time (specialty-specific)
+
+**Required Fields (in `data`):**
+
+| Field | Type | Required | Max Length | Validation |
+|-------|------|----------|------------|------------|
+| `event_id` | UUID | Yes | - | Valid UUID, globally unique |
+| `admission_id` | UUID | Yes | - | Valid UUID |
+| `event_type` | String | Yes | 200 | Must be `"risk_status"` |
+| `occurred_at` | String | Yes | - | ISO-8601 datetime with timezone |
+| `risk_level` | String | No | 100 | Specialty-defined risk level |
+| `risk_score` | Integer | No | - | Optional numeric score |
+| `location` | String | No | 200 | Location where assessment applies |
+| `notes` | String | No | 2000 | Free-text notes |
+| `legacy_location_risk_id` | String | No | 100 | Legacy reference (if imported) |
+
+**Example:**
+
+```json
+{
+  "event_id": "623e4567-e89b-12d3-a456-426614174000",
+  "admission_id": "123e4567-e89b-12d3-a456-426614174000",
+  "event_type": "risk_status",
+  "occurred_at": "2026-01-03T12:00:00Z",
+  "risk_level": "high",
+  "risk_score": 4,
+  "location": "CICU",
+  "notes": "Hemodynamic instability noted",
+  "legacy_location_risk_id": "LR-5561"
+}
+```
+
+**Business Rules:**
+- Risk taxonomy is **specialty-owned** (cardiac plugin defines allowed values)
+- `occurred_at` must be within the admission date range
+- Use `risk_score` only if a numeric scale is clinically validated
+
+---
+
+### attachment.added
+
+**Stream:** Admission  
+**Purpose:** Records file attachments linked to a patient’s timeline (notes, reports, images)
+
+**Fields:**
+
+| Field | Type | Required | Max Length | Validation |
+|-------|------|----------|------------|------------|
+| `attachment_id` | UUID | Yes | - | Valid UUID, globally unique |
+| `admission_id` | UUID | Yes | - | Valid UUID |
+| `occurred_at` | String | Yes | - | ISO-8601 datetime with timezone |
+| `storage_key` | String | Yes | 500 | Object storage key |
+| `filename` | String | No | 255 | Original filename |
+| `description` | String | No | 500 | Human-readable description |
+| `attachment_type` | String | No | 100 | Specialty-defined type |
+| `content_type` | String | No | 100 | MIME type |
+| `thumbnail_key` | String | No | 500 | Optional thumbnail reference |
+| `linked_event_id` | UUID | No | - | Optional link to timeline event |
+
+**Example:**
+
+```json
+{
+  "attachment_id": "723e4567-e89b-12d3-a456-426614174000",
+  "admission_id": "123e4567-e89b-12d3-a456-426614174000",
+  "occurred_at": "2026-01-03T16:30:00Z",
+  "storage_key": "attachments/2026/01/03/723e4567.pdf",
+  "filename": "Progress Note.pdf",
+  "description": "Post-op progress note",
+  "attachment_type": "note",
+  "content_type": "application/pdf",
+  "thumbnail_key": "attachments/2026/01/03/723e4567-thumb.jpg",
+  "linked_event_id": "523e4567-e89b-12d3-a456-426614174000"
+}
+```
+
+**Business Rules:**
+- File contents live in object storage; the database stores **metadata only**
+- Attachments must not expose PHI in URLs or public keys
+- `linked_event_id` allows attachments to appear on timeline entries
+
+---
+
 ## PHI Security Requirements
 
 **CRITICAL:** These events contain Protected Health Information (PHI) and must be handled securely:

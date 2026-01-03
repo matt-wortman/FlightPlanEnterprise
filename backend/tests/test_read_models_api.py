@@ -1,3 +1,4 @@
+from datetime import datetime, timezone
 import uuid
 import pytest
 from httpx import AsyncClient, ASGITransport
@@ -7,7 +8,7 @@ from sqlalchemy.pool import StaticPool
 from app.main import app
 from app.core.database import get_session
 from app.models.base import Base
-from app.models.read_models import PatientReadModel, AdmissionReadModel
+from app.models.read_models import PatientReadModel, AdmissionReadModel, AttachmentReadModel
 
 
 @pytest.mark.asyncio
@@ -41,6 +42,15 @@ async def test_read_model_endpoints():
                 tenant_id=tenant_id,
                 patient_id=patient_id,
                 data={"admission_id": str(admission_id), "patient_id": str(patient_id)},
+            )
+        )
+        session.add(
+            AttachmentReadModel(
+                id=uuid.uuid4(),
+                tenant_id=tenant_id,
+                admission_id=admission_id,
+                occurred_at=datetime.now(timezone.utc),
+                data={"admission_id": str(admission_id), "filename": "note.pdf"},
             )
         )
         await session.commit()
@@ -98,6 +108,13 @@ async def test_read_model_endpoints():
             headers={"X-Tenant-ID": str(tenant_id)},
         )
         assert resp.status_code == 200
+
+        resp = await client.get(
+            f"/api/v1/admissions/{admission_id}/attachments",
+            headers={"X-Tenant-ID": str(tenant_id)},
+        )
+        assert resp.status_code == 200
+        assert len(resp.json()["items"]) == 1
 
     app.dependency_overrides.clear()
     await engine.dispose()

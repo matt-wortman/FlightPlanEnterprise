@@ -134,6 +134,24 @@ curl -X POST http://localhost:8000/api/v1/admissions \
   }'
 ```
 
+## Optional: Seed Synthetic Data (Recommended for UI Work)
+
+If you want a small, **fully synthetic** dataset (no legacy data), run:
+
+```bash
+# From backend/ directory with .env.local configured
+source .venv/bin/activate
+python scripts/seed_fake_data.py --patients 25
+```
+
+This will create about 20–30 synthetic patients with admissions, locations, timeline events, and attachments.
+
+To create multiple admissions per patient:
+
+```bash
+python scripts/seed_fake_data.py --patients 20 --admissions-per-patient 2
+```
+
 ## Running Tests
 
 ```bash

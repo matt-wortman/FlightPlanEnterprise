@@ -1,0 +1,1135 @@
+{
+  "dbo": {
+    "admissions": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ADM",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "ADMDATE",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "Status",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 3000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Interventions",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 3000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Diagnosis",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 1000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ReviewDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "CrossCheck",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 10,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Thumbnail",
+        "type": "text",
+        "nullable": "YES",
+        "char_len": 2147483647,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "annotations": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ADM",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "AnnotaionID",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "EntryDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "annotation",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 500,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "type",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "href",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 8000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "SpecialNode",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 200,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "format",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 300,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "attachments": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ADM",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "AttachmentID",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "LocationStepID",
+        "type": "int",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "LocationRiskID",
+        "type": "int",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "EntryDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "storage_key",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 8000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Filename",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 500,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Description",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 500,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "AttachmentType",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ContentType",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Thumbnail",
+        "type": "text",
+        "nullable": "YES",
+        "char_len": 2147483647,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "bedside_procedures": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ADM",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "LocationStepID",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "BedsideProcedureID",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "StartDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "EndDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "ProcedureType",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Teams",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 500,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Notes",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 3000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "conferences": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ADM",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "ConferenceID",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "EntryDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "Type",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "AttachmentKeys",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 8000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActionItems",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Notes",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 500,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "continuous_therapy": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ADM",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "CtId",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "EntryDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "Type",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 200,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Status",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 200,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "AttachmentKeys",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 8000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Notes",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 3000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "course_corrections": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ADM",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "course_correct_id",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "EntryDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "type",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "detail",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 500,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "feedbacks": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ADM",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "FeedbackID",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "EntryDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "ExitDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "Score",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Performance",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Outcome",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "AttachmentKeys",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 8000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Notes",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 500,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "GraphVisible",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 10,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "SuggestedEdit",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 10,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "location_risks": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ADM",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "LocationStepID",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "LocationRiskID",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "StartDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "Risk",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Notes",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 3000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Extra",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 3000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "location_steps": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ADM",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "LocationStepID",
+        "type": "int",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "EntryDatetime",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "Location",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Teams",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 500,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Weight",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Notes",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 3000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Extra",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 3000,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "patients": [
+      {
+        "column": "MRN",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 50,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "LastName",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "FirstName",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "DOB",
+        "type": "datetime",
+        "nullable": "NO",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      },
+      {
+        "column": "sex",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 20,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "KeyDiagnosis",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 500,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Deceased",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 10,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "Username",
+        "type": "varchar",
+        "nullable": "YES",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "ActivityDate",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ],
+    "users": [
+      {
+        "column": "username",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "occupation",
+        "type": "varchar",
+        "nullable": "NO",
+        "char_len": 100,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": null
+      },
+      {
+        "column": "credentials",
+        "type": "int",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": 10,
+        "num_scale": 0,
+        "dt_prec": null
+      },
+      {
+        "column": "last_access",
+        "type": "datetime",
+        "nullable": "YES",
+        "char_len": null,
+        "num_prec": null,
+        "num_scale": null,
+        "dt_prec": 3
+      }
+    ]
+  }
+}

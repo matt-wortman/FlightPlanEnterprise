@@ -9,6 +9,7 @@ from app.models.read_models import (
     FlightPlanReadModel,
     TimelineEventModel,
     TrajectoryPointModel,
+    AttachmentReadModel,
 )
 
 
@@ -130,6 +131,31 @@ class TimelineProjection:
                 tenant_id=self.tenant_id,
                 admission_id=admission_id,
                 event_type=data.get("event_type", event["event_type"]),
+                occurred_at=occurred_at,
+                data=data,
+            )
+        )
+
+
+class AttachmentProjection:
+    def __init__(self, session: AsyncSession, tenant_id: UUID) -> None:
+        self.session = session
+        self.tenant_id = tenant_id
+
+    async def handle(self, event: dict) -> None:
+        if event["event_type"] != "attachment.added":
+            return
+
+        data = event["data"]
+        admission_id = UUID(data["admission_id"])
+        occurred_at = _parse_datetime(data.get("occurred_at"))
+        attachment_id = UUID(data.get("attachment_id") or event["event_id"])
+
+        self.session.add(
+            AttachmentReadModel(
+                id=attachment_id,
+                tenant_id=self.tenant_id,
+                admission_id=admission_id,
                 occurred_at=occurred_at,
                 data=data,
             )

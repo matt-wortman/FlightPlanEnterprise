@@ -1,6 +1,6 @@
 # Current Database Schema
 
-**Last Updated:** January 2, 2026
+**Last Updated:** January 3, 2026
 **Source:** Alembic migrations 001-002
 **Database:** PostgreSQL 16 / SQLite (dev)
 
@@ -357,6 +357,43 @@ Read models are **denormalized views** built from events for query performance.
 
 ---
 
+### `attachment_read_models`
+
+**Purpose**: Metadata for file attachments linked to an admission
+
+| Column | Type | Constraints | Description |
+|--------|------|-------------|-------------|
+| `id` | UUID | PRIMARY KEY | Attachment UUID |
+| `tenant_id` | UUID | NOT NULL | Tenant isolation |
+| `admission_id` | UUID | NOT NULL | Foreign key to admission |
+| `occurred_at` | TIMESTAMP | NOT NULL | When attachment was added |
+| `data` | JSONB | NOT NULL | Attachment metadata |
+
+**Indexes:**
+- `idx_attachment_tenant` on `(tenant_id)` - Tenant isolation
+- `idx_attachment_admission` on `(admission_id)` - Query by admission
+- `idx_attachment_occurred` on `(occurred_at)` - Time-based ordering
+
+**Data Structure (JSON):**
+```json
+{
+  "attachment_id": "uuid",
+  "admission_id": "uuid",
+  "occurred_at": "ISO-8601",
+  "storage_key": "string",
+  "filename": "string",
+  "description": "string",
+  "attachment_type": "string",
+  "content_type": "string"
+}
+```
+
+**Notes:**
+- Stores metadata only (file contents live in object storage)
+- Built from `attachment.added` events
+
+---
+
 ## Migration History
 
 ### 001_event_store (2026-01-02 12:10:00)
@@ -381,6 +418,15 @@ Read models are **denormalized views** built from events for query performance.
 - `trajectory_points` - Location history
 
 **Purpose:** CQRS read models and tenant isolation
+
+---
+
+### 003_attachment_read_models (2026-01-03 09:00:00)
+
+**Created:**
+- `attachment_read_models` - Attachment metadata
+
+**Purpose:** Attachment metadata read model
 
 ---
 

@@ -86,3 +86,19 @@ class TrajectoryPointModel(Base):
         Index("idx_trajectory_admission", "admission_id"),
         Index("idx_trajectory_effective", "effective_at"),
     )
+
+
+class AttachmentReadModel(Base):
+    __tablename__ = "attachment_read_models"
+
+    id: Mapped[uuid.UUID] = mapped_column(GUID(), primary_key=True)
+    tenant_id: Mapped[uuid.UUID] = mapped_column(GUID(), nullable=False)
+    admission_id: Mapped[uuid.UUID] = mapped_column(GUID(), nullable=False)
+    occurred_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), nullable=False)
+    data: Mapped[dict] = mapped_column(JSON, nullable=False)
+
+    __table_args__ = (
+        Index("idx_attachment_tenant", "tenant_id"),
+        Index("idx_attachment_admission", "admission_id"),
+        Index("idx_attachment_occurred", "occurred_at"),
+    )

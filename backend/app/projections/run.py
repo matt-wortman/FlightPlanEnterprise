@@ -9,6 +9,7 @@ from app.projections.read_model_projections import (
     AdmissionProjection,
     FlightPlanProjection,
     TimelineProjection,
+    AttachmentProjection,
 )
 from app.projections.runner import ProjectionRunner
 
@@ -24,6 +25,7 @@ async def main() -> None:
             AdmissionProjection(session, tenant_id),
             FlightPlanProjection(session, tenant_id),
             TimelineProjection(session, tenant_id),
+            AttachmentProjection(session, tenant_id),
         ]
         runner = ProjectionRunner(
             event_store=event_store,

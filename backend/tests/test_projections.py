@@ -5,8 +5,18 @@ from sqlalchemy.ext.asyncio import create_async_engine, async_sessionmaker
 from sqlalchemy.pool import StaticPool
 
 from app.models.base import Base
-from app.models.read_models import PatientReadModel, AdmissionReadModel, TimelineEventModel
-from app.projections.read_model_projections import PatientProjection, AdmissionProjection, TimelineProjection
+from app.models.read_models import (
+    PatientReadModel,
+    AdmissionReadModel,
+    TimelineEventModel,
+    AttachmentReadModel,
+)
+from app.projections.read_model_projections import (
+    PatientProjection,
+    AdmissionProjection,
+    TimelineProjection,
+    AttachmentProjection,
+)
 
 
 @pytest.mark.asyncio
@@ -104,6 +114,38 @@ async def test_timeline_projection_inserts_event():
         await session.commit()
 
         rows = (await session.execute(TimelineEventModel.__table__.select())).fetchall()
+        assert len(rows) == 1
+
+    await engine.dispose()
+
+
+@pytest.mark.asyncio
+async def test_attachment_projection_inserts_attachment():
+    engine = _create_engine()
+    async with engine.begin() as conn:
+        await conn.run_sync(Base.metadata.create_all)
+
+    async_session = async_sessionmaker(engine, expire_on_commit=False)
+    tenant_id = uuid.uuid4()
+    admission_id = uuid.uuid4()
+    attachment_id = uuid.uuid4()
+
+    async with async_session() as session:
+        projection = AttachmentProjection(session=session, tenant_id=tenant_id)
+        event = {
+            "event_type": "attachment.added",
+            "event_id": str(uuid.uuid4()),
+            "data": {
+                "attachment_id": str(attachment_id),
+                "admission_id": str(admission_id),
+                "occurred_at": "2026-01-02T12:00:00Z",
+                "storage_key": "synthetic/file.pdf",
+            },
+        }
+        await projection.handle(event)
+        await session.commit()
+
+        rows = (await session.execute(AttachmentReadModel.__table__.select())).fetchall()
         assert len(rows) == 1
 
     await engine.dispose()

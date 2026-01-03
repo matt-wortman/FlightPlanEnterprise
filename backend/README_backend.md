@@ -1,6 +1,6 @@
 # FlightPlan Enterprise Backend
 
-**Last Updated:** January 2, 2026
+**Last Updated:** January 3, 2026
 
 Event-sourced, multi-tenant FastAPI backend for the FlightPlan Enterprise clinical care platform.
 
@@ -53,6 +53,21 @@ uvicorn app.main:app --reload
 **API Server:** http://localhost:8000
 **API Documentation:** http://localhost:8000/docs
 **Health Check:** http://localhost:8000/health
+
+### Seed Synthetic Data (Optional)
+
+To populate the database with 20–30 synthetic patients for UI testing:
+
+```bash
+source .venv/bin/activate
+python scripts/seed_fake_data.py --patients 25
+```
+
+To generate multiple admissions per patient:
+
+```bash
+python scripts/seed_fake_data.py --patients 20 --admissions-per-patient 2
+```
 
 ## Dependencies
 
@@ -128,6 +143,7 @@ alembic history
 
 1. **001_event_store** - Core event sourcing tables (events, snapshots, subscriptions)
 2. **002_read_models_and_tenants** - Read models and tenant management
+3. **003_attachment_read_models** - Attachment read model table
 
 ### Creating New Migrations
 
