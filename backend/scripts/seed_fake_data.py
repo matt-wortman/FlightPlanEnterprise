@@ -369,7 +369,7 @@ async def seed_database(
 def main() -> None:
     args = parse_args()
     settings = get_settings()
-    tenant_id = UUID(args.tenant_id or str(settings.DEFAULT_TENANT_ID))
+    tenant_id = UUID(args.tenant_id or str(settings.default_tenant_id))
     created_by = UUID(args.created_by)
 
     rng = random.Random(args.seed)

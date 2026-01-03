@@ -279,7 +279,7 @@ def main() -> None:
 
     if not args.tenant_id:
         settings = get_settings()
-        args.tenant_id = str(settings.DEFAULT_TENANT_ID)
+        args.tenant_id = str(settings.default_tenant_id)
 
     if not args.created_by:
         raise SystemExit("created-by is required (LEGACY_IMPORT_USER_ID or --created-by).")
